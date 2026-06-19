@@ -68,13 +68,13 @@ async function generateGraph() {
 
         playerDataList.push({
             player,
-            history: data.history
+            history: data.history || {}
         });
     }
 
-    // -----------------------------------------
-    // Build unified timeline across all players
-    // -----------------------------------------
+    // -------------------------------------------------------
+    // Build unified timeline across all players (labels axis)
+    // -------------------------------------------------------
     const allDatesSet = new Set();
 
     for (const { history } of playerDataList) {
@@ -83,42 +83,38 @@ async function generateGraph() {
 
     const labels = Array.from(allDatesSet).sort();
 
-    // -----------------------------------------
-    // Build datasets with correct delta logic
-    // -----------------------------------------
+    // -------------------------------------------------------
+    // Build datasets using snapshot-to-snapshot deltas ONLY
+    // -------------------------------------------------------
     const datasets = [];
 
     for (const { player, history } of playerDataList) {
 
-        let lastKnownValue = null;
+        // Extract only valid snapshot dates for this player
+        const snapshotDates = Object.keys(history)
+            .filter(d => history[d]?.Flat && history[d].Flat[stat] != null)
+            .sort();
 
-        const values = [];
+        // Build delta map: date -> delta since previous snapshot
+        const deltaMap = new Map();
 
-        for (const date of labels) {
-            const entry = history[date];
+        let previousValue = null;
 
-            let delta = 0;
+        for (const date of snapshotDates) {
+            const currentValue = parseFloat(history[date].Flat[stat]) || 0;
 
-            if (entry && entry.Flat && entry.Flat[stat] != null) {
-                const currentValue = parseFloat(entry.Flat[stat]) || 0;
-
-                // Only compute delta from a REAL previous snapshot
-                if (lastKnownValue !== null) {
-                    delta = currentValue - lastKnownValue;
-                } else {
-                    // First ever snapshot -> no baseline comparison
-                    delta = 0;
-                }
-
-                lastKnownValue = currentValue;
+            // First snapshot has no prior data → delta = 0
+            if (previousValue === null) {
+                deltaMap.set(date, 0);
             } else {
-                // No snapshot on this day:
-                // Do NOT compare to zero, do nothing
-                delta = 0;
+                deltaMap.set(date, currentValue - previousValue);
             }
 
-            values.push(delta);
+            previousValue = currentValue;
         }
+
+        // Project into full label timeline
+        const values = labels.map(date => deltaMap.get(date) ?? 0);
 
         datasets.push({
             label: player.latestName,
@@ -138,6 +134,9 @@ async function generateGraph() {
             data: {
                 labels,
                 datasets
+            },
+            options: {
+                spanGaps: false
             }
         }
     );
