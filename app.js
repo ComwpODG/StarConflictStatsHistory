@@ -58,22 +58,23 @@ async function generateGraph() {
     if (!selectedPlayers.length) return;
 
     // -----------------------------
-    // 1. Load all player data first
+    // Load all player histories
     // -----------------------------
     const playerDataList = [];
 
     for (const player of selectedPlayers) {
         const res = await fetch(`UID Summations/${player.uid}.json`);
         const data = await res.json();
+
         playerDataList.push({
             player,
             history: data.history
         });
     }
 
-    // ----------------------------------------
-    // 2. Build a unified sorted date timeline
-    // ----------------------------------------
+    // -----------------------------------------
+    // Build unified timeline across all players
+    // -----------------------------------------
     const allDatesSet = new Set();
 
     for (const { history } of playerDataList) {
@@ -82,34 +83,41 @@ async function generateGraph() {
 
     const labels = Array.from(allDatesSet).sort();
 
-    // ----------------------------------------
-    // 3. Build datasets with forward-fill + delta
-    // ----------------------------------------
+    // -----------------------------------------
+    // Build datasets with correct delta logic
+    // -----------------------------------------
     const datasets = [];
 
     for (const { player, history } of playerDataList) {
-        let previousValue = 0;
+
+        let lastKnownValue = null;
 
         const values = [];
 
-        for (let i = 0; i < labels.length; i++) {
-            const date = labels[i];
-
+        for (const date of labels) {
             const entry = history[date];
 
-            let currentValue = previousValue;
+            let delta = 0;
 
             if (entry && entry.Flat && entry.Flat[stat] != null) {
-                currentValue = parseFloat(entry.Flat[stat]) || 0;
+                const currentValue = parseFloat(entry.Flat[stat]) || 0;
+
+                // Only compute delta from a REAL previous snapshot
+                if (lastKnownValue !== null) {
+                    delta = currentValue - lastKnownValue;
+                } else {
+                    // First ever snapshot -> no baseline comparison
+                    delta = 0;
+                }
+
+                lastKnownValue = currentValue;
+            } else {
+                // No snapshot on this day:
+                // Do NOT compare to zero, do nothing
+                delta = 0;
             }
 
-            // delta from previous day
-            const delta = currentValue - previousValue;
-
             values.push(delta);
-
-            // update carry-forward value
-            previousValue = currentValue;
         }
 
         datasets.push({
@@ -119,7 +127,7 @@ async function generateGraph() {
     }
 
     // -----------------------------
-    // 4. Render chart
+    // Render chart
     // -----------------------------
     if (chart) chart.destroy();
 
