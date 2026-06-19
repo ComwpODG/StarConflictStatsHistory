@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#selectedPlayers {
+    margin-top: 10px;
+}
+
+.player-chip {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 3px;
+    background: #ddd;
+    border-radius: 20px;
+}
+
+canvas {
+    max-width: 1400px;
+    max-height: 800px;
+}
