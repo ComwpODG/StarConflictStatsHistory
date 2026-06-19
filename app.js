@@ -118,34 +118,26 @@ async function generateGraph() {
         const history =
             playerData.history;
 
-        const dates =
-            Object.keys(history).sort();
-
-        const values = [];
-
+        const dates = Object.keys(history).sort();
+        
+        const data = [];
+        
         for (let i = 1; i < dates.length; i++) {
-
-            const today =
-                history[dates[i]];
-
-            const yesterday =
-                history[dates[i - 1]];
-
-            const current =
-                parseFloat(
-                    today.Flat[stat] || 0
-                );
-
-            const previous =
-                parseFloat(
-                    yesterday.Flat[stat] || 0
-                );
-
-            values.push(
-                current - previous
-            );
+        
+            const date = dates[i];
+        
+            const today = history[date];
+            const yesterday = history[dates[i - 1]];
+        
+            const current = parseFloat(today?.Flat?.[stat] || 0);
+            const previous = parseFloat(yesterday?.Flat?.[stat] || 0);
+        
+            data.push({
+                x: date,
+                y: current - previous
+            });
         }
-
+        
         datasets.push({
 
             label:
