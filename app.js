@@ -210,7 +210,7 @@ async function generateGraph() {
 					timeMap.get(date) ?? 0;
 				if (time <= 0)
 					return 0;
-				return kill / (time/60);
+				return kill / (time/1000);
 			});
 		} else if (stat === "Win/Loss") {
 			const winMap =
