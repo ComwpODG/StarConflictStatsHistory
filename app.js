@@ -148,7 +148,7 @@ async function generateGraph() {
 					dmgMap.get(date) ?? 0;
 				const battles =
 					battleMap.get(date) ?? 0;
-				if (dmg <= 0)
+				if (battles <= 0)
 					return 0;
 				return dmg / battles;
 			});
@@ -177,7 +177,7 @@ async function generateGraph() {
 				const death =
 					deathMap.get(date) ?? 0;
 				if (death <= 0)
-					return 0;
+					death = 1;
 				return kill / death;
 			});
 		} else if (stat === "K+A/D") {
@@ -195,7 +195,7 @@ async function generateGraph() {
 				const death =
 					deathMap.get(date) ?? 0;
 				if (death <= 0)
-					return 0;
+					death = 1;
 				return (kill+assist) / death;
 			});
 		} else if (stat === "K/Min") {
