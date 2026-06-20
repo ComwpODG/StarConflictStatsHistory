@@ -860,6 +860,51 @@
         "clan.pvpRating": "5094",
         "clan.pveRating": "93734"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:44.9121877Z",
+      "Flat": {
+        "nickName": "ScarletAsunder",
+        "uid": "4207369",
+        "accountRank": "15",
+        "prestigeBonus": "0.5",
+        "effRating": "7190.7197265625",
+        "pvp.totalKill": "1428",
+        "pvp.totalDeath": "2455",
+        "pvp.totalAssists": "2281",
+        "pvp.gamePlayed": "562",
+        "pvp.totalDmgDone": "28687659.509087",
+        "pvp.totalVpDmgDone": "4759.1164961755",
+        "pvp.totalHealingDone": "4951942.7132874",
+        "pvp.totalBattleTime": "296214899",
+        "pvp.gameWin": "149",
+        "pve.gamePlayed": "266",
+        "pve.unlimPve_playerAttackLevel": "5",
+        "pve.unlimPve_playerDefenceLevel": "13",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "15",
+        "pve.unlimPve_missionLevels.magnificent_seven": "6",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "16",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "4",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "11",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "7",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "10",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "6",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "7",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "9",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "10",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "8",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "6",
+        "pve.unlimPve_missionLevels.piratebay_hard": "47",
+        "coop.gameWin": "139",
+        "coop.gamePlayed": "142",
+        "coop.totalBattleTime": "72417597",
+        "openWorld.karma": "24549",
+        "clan.name": "OwO WING",
+        "clan.tag": "0w0",
+        "clan.cid": "5701",
+        "clan.pvpRating": "5358",
+        "clan.pveRating": "79382"
+      }
     }
   }
 }
