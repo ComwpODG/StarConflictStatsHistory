@@ -224,6 +224,8 @@ async function generateGraph() {
 					playedMap.get(date) ?? 0;
 				if (played <= 0)
 					return 0;
+				if (played == win)
+					return played;
 				return win / (played-win);
 			});
 		} else {
