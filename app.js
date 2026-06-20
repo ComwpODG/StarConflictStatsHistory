@@ -52,6 +52,31 @@ function renderSelectedPlayers() {
     });
 }
 
+function buildDeltaMap(history, statName) {
+    const snapshotDates = Object.keys(history)
+        .filter(d => history[d]?.Flat && history[d].Flat[statName] != null)
+        .sort();
+
+    const deltaMap = new Map();
+
+    let previousValue = null;
+
+    for (const date of snapshotDates) {
+        const currentValue =
+            parseFloat(history[date].Flat[statName]) || 0;
+
+        if (previousValue === null) {
+            deltaMap.set(date, 0);
+        } else {
+            deltaMap.set(date, currentValue - previousValue);
+        }
+
+        previousValue = currentValue;
+    }
+
+    return deltaMap;
+}
+
 async function generateGraph() {
     const stat = document.getElementById("statSelect").value;
 
@@ -96,25 +121,38 @@ async function generateGraph() {
             .sort();
 
         // Build delta map: date -> delta since previous snapshot
-        const deltaMap = new Map();
+        let values;
 
-        let previousValue = null;
+		if (stat === "kills / Battle") {
+			
+			const killMap =
+				buildDeltaMap(history, "pvp.TotalKill");
 
-        for (const date of snapshotDates) {
-            const currentValue = parseFloat(history[date].Flat[stat]) || 0;
+			const battleMap =
+				buildDeltaMap(history, "pvp.gamePlayed");
 
-            // First snapshot has no prior data → delta = 0
-            if (previousValue === null) {
-                deltaMap.set(date, 0);
-            } else {
-                deltaMap.set(date, currentValue - previousValue);
-            }
+			values = labels.map(date => {
 
-            previousValue = currentValue;
-        }
+				const kills =
+					killMap.get(date) ?? 0;
 
-        // Project into full label timeline
-        const values = labels.map(date => deltaMap.get(date) ?? 0);
+				const battles =
+					battleMap.get(date) ?? 0;
+
+				if (battles <= 0)
+					return 0;
+
+				return kills / battles;
+			});
+
+		} else {
+
+			const deltaMap = buildDeltaMap(history, stat);
+
+			values = labels.map(date =>
+				deltaMap.get(date) ?? 0
+			);
+		}
 
         datasets.push({
             label: player.latestName,
