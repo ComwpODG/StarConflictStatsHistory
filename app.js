@@ -126,7 +126,7 @@ async function generateGraph() {
 		if (stat === "kills / Battle") {
 			
 			const killMap =
-				buildDeltaMap(history, "pvp.TotalKill");
+				buildDeltaMap(history, "pvp.totalKill");
 
 			const battleMap =
 				buildDeltaMap(history, "pvp.gamePlayed");
