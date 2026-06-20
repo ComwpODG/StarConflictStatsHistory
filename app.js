@@ -123,7 +123,7 @@ async function generateGraph() {
         // Build delta map: date -> delta since previous snapshot
         let values;
 
-		if (stat === "kills / Battle") {
+		if (stat === "Kills/Battle") {
 			
 			const killMap =
 				buildDeltaMap(history, "pvp.totalKill");
