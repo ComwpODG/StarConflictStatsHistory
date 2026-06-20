@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "10492",
         "clan.pveRating": "322478"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:27.2573128Z",
+      "Flat": {
+        "nickName": "Leo111111",
+        "uid": "2962788",
+        "prestigeBonus": "0.97",
+        "effRating": "6996.9301757812",
+        "accountRank": "19",
+        "pvp.totalKill": "5096",
+        "pvp.totalDeath": "1937",
+        "pvp.totalAssists": "7008",
+        "pvp.gamePlayed": "1163",
+        "pvp.gameWin": "741",
+        "pvp.totalDmgDone": "204958739.41197",
+        "pvp.totalVpDmgDone": "11045.64433068",
+        "pvp.totalHealingDone": "21399875.296638",
+        "pvp.totalBattleTime": "664845504",
+        "pve.gamePlayed": "5384",
+        "pve.unlimPve_playerAttackLevel": "191",
+        "pve.unlimPve_playerDefenceLevel": "95",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "27",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "46",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "71",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "29",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "39",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "48",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "45",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "81",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "42",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "58",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "35",
+        "pve.unlimPve_missionLevels.piratebay_hard": "62",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "24",
+        "pve.unlimPve_missionLevels.magnificent_seven": "12",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pve.wavePve_maxWave": "67",
+        "coop.gameWin": "774",
+        "coop.gamePlayed": "779",
+        "coop.totalBattleTime": "195923315",
+        "openWorld.karma": "125351",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11202",
+        "clan.pveRating": "263241"
+      }
     }
   }
 }

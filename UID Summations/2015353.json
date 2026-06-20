@@ -865,6 +865,47 @@
         "clan.pvpRating": "762",
         "clan.pveRating": "33635"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:58.8987728Z",
+      "Flat": {
+        "nickName": "loI",
+        "uid": "2015353",
+        "accountRank": "15",
+        "prestigeBonus": "0.58",
+        "effRating": "6672.1103515625",
+        "pve.gamePlayed": "541",
+        "pve.unlimPve_playerAttackLevel": "5",
+        "pve.unlimPve_playerDefenceLevel": "121",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "69",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "3",
+        "pve.unlimPve_missionLevels.piratebay_hard": "50",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "8",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "7",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "9",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "6",
+        "pve.unlimPve_missionLevels.magnificent_seven": "4",
+        "pve.wavePve_maxWave": "133",
+        "pvp.totalKill": "81",
+        "pvp.totalDeath": "48",
+        "pvp.totalAssists": "83",
+        "pvp.gamePlayed": "26",
+        "pvp.gameWin": "18",
+        "pvp.totalDmgDone": "1378952.2185059",
+        "pvp.totalVpDmgDone": "1229.8021839857",
+        "pvp.totalHealingDone": "445006.6484375",
+        "pvp.totalBattleTime": "11392838",
+        "coop.gameWin": "4",
+        "coop.gamePlayed": "4",
+        "coop.totalBattleTime": "1040382",
+        "openWorld.karma": "327",
+        "clan.name": "FDEF Tag Holder xD",
+        "clan.tag": "FDEF",
+        "clan.cid": "6062",
+        "clan.pvpRating": "588",
+        "clan.pveRating": "26414"
+      }
     }
   }
 }

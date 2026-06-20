@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "13",
         "clan.pveRating": "4422"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:38.543362Z",
+      "Flat": {
+        "nickName": "Zenderthedragon",
+        "uid": "3476312",
+        "prestigeBonus": "1.22",
+        "accountRank": "19",
+        "effRating": "7074.783203125",
+        "pvp.totalKill": "20165",
+        "pvp.totalDeath": "9396",
+        "pvp.totalAssists": "26061",
+        "pvp.gamePlayed": "3741",
+        "pvp.totalDmgDone": "845966779.99971",
+        "pvp.totalVpDmgDone": "43994.287165932",
+        "pvp.totalHealingDone": "289220293.9747",
+        "pvp.totalBattleTime": "1927810767",
+        "pvp.gameWin": "2144",
+        "pve.gamePlayed": "2569",
+        "pve.unlimPve_playerAttackLevel": "91",
+        "pve.unlimPve_playerDefenceLevel": "43",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "58",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "46",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "38",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "65",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "83",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "38",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "51",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "38",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "40",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "39",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "65",
+        "pve.unlimPve_missionLevels.piratebay_hard": "61",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "23",
+        "pve.unlimPve_missionLevels.magnificent_seven": "16",
+        "pve.unlimPve_missionLevels.stealth": "8",
+        "pve.wavePve_maxWave": "47",
+        "coop.gameWin": "2878",
+        "coop.gamePlayed": "2898",
+        "coop.totalBattleTime": "740204616",
+        "openWorld.karma": "231291",
+        "clan.name": "Stand Alone Complex",
+        "clan.tag": "FENYX",
+        "clan.cid": "1573",
+        "clan.pvpRating": "69",
+        "clan.pveRating": "3946"
+      }
     }
   }
 }

@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "2273",
         "clan.pveRating": "20009"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:41.2244247Z",
+      "Flat": {
+        "effRating": "8528.3525390625",
+        "nickName": "MrBaidula",
+        "prestigeBonus": "0.36",
+        "uid": "2265715",
+        "accountRank": "16",
+        "pve.gamePlayed": "2906",
+        "pve.unlimPve_playerAttackLevel": "38",
+        "pve.unlimPve_playerDefenceLevel": "38",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "24",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "19",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "45",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "22",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "22",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "39",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "175",
+        "pve.unlimPve_missionLevels.piratebay_hard": "18",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "7",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "11",
+        "pve.unlimPve_missionLevels.magnificent_seven": "8",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "10",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "7",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "9",
+        "pve.wavePve_maxWave": "61",
+        "pvp.gamePlayed": "4561",
+        "pvp.gameWin": "2517",
+        "pvp.totalAssists": "34969",
+        "pvp.totalBattleTime": "2207317691",
+        "pvp.totalDeath": "10236",
+        "pvp.totalDmgDone": "1072074942.4846",
+        "pvp.totalHealingDone": "333574890.89144",
+        "pvp.totalKill": "24000",
+        "pvp.totalVpDmgDone": "7739.2730078399",
+        "coop.gameWin": "784",
+        "coop.gamePlayed": "803",
+        "coop.totalBattleTime": "235725724",
+        "openWorld.karma": "124673",
+        "clan.name": "Sine Qua Non",
+        "clan.tag": "cSQN",
+        "clan.cid": "6331",
+        "clan.pvpRating": "2222",
+        "clan.pveRating": "16708"
+      }
     }
   }
 }

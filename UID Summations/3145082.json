@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "6729",
         "clan.pveRating": "59612"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:03.5636237Z",
+      "Flat": {
+        "nickName": "Silent1um",
+        "uid": "3145082",
+        "prestigeBonus": "3.09",
+        "effRating": "9237.1669921875",
+        "accountRank": "25",
+        "pve.gamePlayed": "6199",
+        "pve.unlimPve_playerAttackLevel": "34",
+        "pve.unlimPve_playerDefenceLevel": "19",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "41",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "38",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "41",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "65",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "103",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "63",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "35",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "47",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "42",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "26",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "45",
+        "pve.unlimPve_missionLevels.piratebay_hard": "69",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "38",
+        "pve.unlimPve_missionLevels.magnificent_seven": "18",
+        "pve.unlimPve_missionLevels.stealth": "46",
+        "pve.wavePve_maxWave": "17",
+        "pvp.totalKill": "81518",
+        "pvp.totalDeath": "25976",
+        "pvp.totalAssists": "140039",
+        "pvp.gamePlayed": "16362",
+        "pvp.totalDmgDone": "2062729753.429",
+        "pvp.totalVpDmgDone": "202132.20221542",
+        "pvp.totalHealingDone": "617491398.55716",
+        "pvp.totalBattleTime": "8670957180",
+        "pvp.gameWin": "9655",
+        "coop.gameWin": "7780",
+        "coop.gamePlayed": "7855",
+        "coop.totalBattleTime": "2117659202",
+        "openWorld.karma": "-2666",
+        "clan.name": "Assault Black Mark",
+        "clan.tag": "BIM",
+        "clan.cid": "5468",
+        "clan.pvpRating": "6108",
+        "clan.pveRating": "67094"
+      }
     }
   }
 }

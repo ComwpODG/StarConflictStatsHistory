@@ -760,6 +760,42 @@
         "clan.pvpRating": "27778",
         "clan.pveRating": "582501"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:53.5978338Z",
+      "Flat": {
+        "nickName": "QueenBubblegum",
+        "uid": "3942826",
+        "accountRank": "13",
+        "prestigeBonus": "0.25",
+        "effRating": "4413.46484375",
+        "pve.gamePlayed": "387",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "6",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "22",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "13",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "5",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "4",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "16",
+        "pve.wavePve_maxWave": "24",
+        "pvp.totalKill": "107",
+        "pvp.totalDeath": "686",
+        "pvp.totalAssists": "2094",
+        "pvp.gamePlayed": "351",
+        "pvp.totalDmgDone": "4618222.3494212",
+        "pvp.totalVpDmgDone": "150.34050524235",
+        "pvp.totalHealingDone": "16161344.697998",
+        "pvp.totalBattleTime": "167409383",
+        "pvp.gameWin": "51",
+        "coop.gameWin": "384",
+        "coop.gamePlayed": "392",
+        "coop.totalBattleTime": "107624195",
+        "openWorld.karma": "108484",
+        "clan.name": "Aprel",
+        "clan.tag": "BECHA",
+        "clan.cid": "6153",
+        "clan.pvpRating": "25625",
+        "clan.pveRating": "522672"
+      }
     }
   }
 }

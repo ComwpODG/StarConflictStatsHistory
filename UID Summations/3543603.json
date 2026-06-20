@@ -1,0 +1,56 @@
+{
+  "uid": 3543603,
+  "latestName": "aTom73",
+  "knownNames": [
+    "aTom73"
+  ],
+  "history": {
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:45.7604096Z",
+      "Flat": {
+        "nickName": "aTom73",
+        "uid": "3543603",
+        "prestigeBonus": "3.07",
+        "accountRank": "25",
+        "effRating": "9573.83984375",
+        "pve.gamePlayed": "13605",
+        "pve.unlimPve_playerAttackLevel": "263",
+        "pve.unlimPve_playerDefenceLevel": "203",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "86",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "80",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "99",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "94",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "91",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "85",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "83",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "97",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "85",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "77",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "72",
+        "pve.unlimPve_missionLevels.piratebay_hard": "71",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "73",
+        "pve.unlimPve_missionLevels.magnificent_seven": "74",
+        "pve.unlimPve_missionLevels.stealth": "7",
+        "pve.wavePve_maxWave": "61",
+        "pvp.totalKill": "48069",
+        "pvp.totalDeath": "18111",
+        "pvp.totalAssists": "65465",
+        "pvp.gamePlayed": "10715",
+        "pvp.totalDmgDone": "1738535529.2674",
+        "pvp.totalVpDmgDone": "215040.61043852",
+        "pvp.totalHealingDone": "1212921560.2394",
+        "pvp.totalBattleTime": "5931418343",
+        "pvp.gameWin": "6371",
+        "coop.gameWin": "5816",
+        "coop.gamePlayed": "5836",
+        "coop.totalBattleTime": "1582024531",
+        "openWorld.karma": "764681",
+        "clan.name": "Art of WAR",
+        "clan.tag": "AoWAR",
+        "clan.cid": "3565",
+        "clan.pvpRating": "13458",
+        "clan.pveRating": "392808"
+      }
+    }
+  }
+}

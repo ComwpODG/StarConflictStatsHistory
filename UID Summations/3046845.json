@@ -928,6 +928,48 @@
         "clan.pvpRating": "2263",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:44.3729744Z",
+      "Flat": {
+        "nickName": "MILFHunter",
+        "uid": "3046845",
+        "prestigeBonus": "1.77",
+        "effRating": "8776.9716796875",
+        "accountRank": "16",
+        "pvp.totalKill": "78173",
+        "pvp.totalDeath": "11690",
+        "pvp.totalAssists": "72242",
+        "pvp.gamePlayed": "10131",
+        "pvp.gameWin": "7686",
+        "pvp.totalDmgDone": "1482695185.1356",
+        "pvp.totalVpDmgDone": "6807.5652883053",
+        "pvp.totalHealingDone": "516465004.9068",
+        "pvp.totalBattleTime": "4132978596",
+        "pve.gamePlayed": "111",
+        "pve.unlimPve_playerAttackLevel": "10",
+        "pve.unlimPve_playerDefenceLevel": "6",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "6",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "4",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "7",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "4",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "4",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "5",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "4",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "6",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "5",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "6",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "2",
+        "coop.gameWin": "2114",
+        "coop.gamePlayed": "2117",
+        "coop.totalBattleTime": "485530329",
+        "openWorld.karma": "-778",
+        "clan.name": "Wagner Group",
+        "clan.tag": "YoPTA",
+        "clan.cid": "4624",
+        "clan.pvpRating": "2693",
+        "clan.pveRating": "0"
+      }
     }
   }
 }

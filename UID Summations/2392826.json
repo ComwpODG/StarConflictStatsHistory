@@ -1,0 +1,56 @@
+{
+  "uid": 2392826,
+  "latestName": "CMDshephardN7",
+  "knownNames": [
+    "CMDshephardN7"
+  ],
+  "history": {
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:52.1002981Z",
+      "Flat": {
+        "effRating": "8219.001953125",
+        "nickName": "CMDshephardN7",
+        "prestigeBonus": "2.83",
+        "uid": "2392826",
+        "accountRank": "25",
+        "pve.gamePlayed": "6753",
+        "pve.unlimPve_playerAttackLevel": "219",
+        "pve.unlimPve_playerDefenceLevel": "216",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "62",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "81",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "60",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "55",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "66",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "45",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "47",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "102",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "68",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "62",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "40",
+        "pve.unlimPve_missionLevels.piratebay_hard": "75",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "21",
+        "pve.unlimPve_missionLevels.magnificent_seven": "14",
+        "pve.unlimPve_missionLevels.stealth": "7",
+        "pve.wavePve_maxWave": "71",
+        "pvp.gamePlayed": "3878",
+        "pvp.gameWin": "2314",
+        "pvp.totalAssists": "39597",
+        "pvp.totalBattleTime": "2177830907",
+        "pvp.totalDeath": "9852",
+        "pvp.totalDmgDone": "624445773.83908",
+        "pvp.totalHealingDone": "425691526.75159",
+        "pvp.totalKill": "20385",
+        "pvp.totalVpDmgDone": "22493.442438863",
+        "coop.gameWin": "1755",
+        "coop.gamePlayed": "1762",
+        "coop.totalBattleTime": "459569651",
+        "openWorld.karma": "611054",
+        "clan.name": "ARES Sentinels",
+        "clan.tag": "ARES",
+        "clan.cid": "5970",
+        "clan.pvpRating": "20005",
+        "clan.pveRating": "541695"
+      }
+    }
+  }
+}

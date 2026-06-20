@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "23702",
         "clan.pveRating": "723397"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:34.1789618Z",
+      "Flat": {
+        "effRating": "8936.67578125",
+        "nickName": "Di132",
+        "prestigeBonus": "3.1",
+        "uid": "2797002",
+        "accountRank": "25",
+        "pve.gamePlayed": "19656",
+        "pve.unlimPve_playerAttackLevel": "352",
+        "pve.unlimPve_playerDefenceLevel": "339",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "120",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "92",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "124",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "97",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "109",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "95",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "104",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "103",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "96",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "63",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "77",
+        "pve.unlimPve_missionLevels.piratebay_hard": "86",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "85",
+        "pve.unlimPve_missionLevels.magnificent_seven": "85",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.wavePve_maxWave": "80",
+        "pvp.gamePlayed": "21291",
+        "pvp.gameWin": "13191",
+        "pvp.totalAssists": "100075",
+        "pvp.totalBattleTime": "10707596918",
+        "pvp.totalDeath": "64464",
+        "pvp.totalDmgDone": "1177378575.5997",
+        "pvp.totalHealingDone": "515854109.6722",
+        "pvp.totalKill": "34306",
+        "pvp.totalVpDmgDone": "567649.73753452",
+        "coop.gameWin": "3900",
+        "coop.gamePlayed": "3936",
+        "coop.totalBattleTime": "1106110822",
+        "openWorld.karma": "830801",
+        "clan.name": "The CONQUERORS",
+        "clan.tag": "TCors",
+        "clan.cid": "3636",
+        "clan.pvpRating": "26357",
+        "clan.pveRating": "658575"
+      }
     }
   }
 }

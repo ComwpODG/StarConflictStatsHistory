@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "11233",
         "clan.pveRating": "252284"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:06.3594345Z",
+      "Flat": {
+        "nickName": "HitThatJive",
+        "uid": "3734494",
+        "accountRank": "25",
+        "prestigeBonus": "3.07",
+        "effRating": "7746.2670898438",
+        "pve.gamePlayed": "9950",
+        "pve.unlimPve_playerAttackLevel": "275",
+        "pve.unlimPve_playerDefenceLevel": "289",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "85",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "87",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "86",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "112",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "80",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "84",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "93",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "86",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "86",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "40",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "77",
+        "pve.unlimPve_missionLevels.piratebay_hard": "47",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "78",
+        "pve.unlimPve_missionLevels.magnificent_seven": "78",
+        "pve.unlimPve_missionLevels.stealth": "8",
+        "pve.wavePve_maxWave": "72",
+        "pvp.totalKill": "86549",
+        "pvp.totalDeath": "34057",
+        "pvp.totalAssists": "115707",
+        "pvp.gamePlayed": "14716",
+        "pvp.gameWin": "7989",
+        "pvp.totalDmgDone": "3193674556.3277",
+        "pvp.totalVpDmgDone": "143571.71084502",
+        "pvp.totalHealingDone": "696012104.71616",
+        "pvp.totalBattleTime": "8263376930",
+        "coop.gameWin": "3274",
+        "coop.gamePlayed": "3278",
+        "coop.totalBattleTime": "808854585",
+        "openWorld.karma": "676822",
+        "clan.name": "FeelingOfGreatness",
+        "clan.tag": "4CB",
+        "clan.cid": "4505",
+        "clan.pvpRating": "10686",
+        "clan.pveRating": "226635"
+      }
     }
   }
 }

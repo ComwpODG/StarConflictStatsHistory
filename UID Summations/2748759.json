@@ -1,0 +1,55 @@
+{
+  "uid": 2748759,
+  "latestName": "KotikoBat",
+  "knownNames": [
+    "KotikoBat"
+  ],
+  "history": {
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:51.3279571Z",
+      "Flat": {
+        "effRating": "7798.560546875",
+        "nickName": "KotikoBat",
+        "prestigeBonus": "2.02",
+        "uid": "2748759",
+        "accountRank": "21",
+        "pve.gamePlayed": "6725",
+        "pve.unlimPve_playerAttackLevel": "96",
+        "pve.unlimPve_playerDefenceLevel": "73",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "45",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "48",
+        "pve.unlimPve_missionLevels.piratebay_hard": "56",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "33",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "63",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "81",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "51",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "38",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "73",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "37",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "44",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "26",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "6",
+        "pve.unlimPve_missionLevels.magnificent_seven": "9",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pvp.gamePlayed": "11078",
+        "pvp.gameWin": "5089",
+        "pvp.totalAssists": "73039",
+        "pvp.totalBattleTime": "6220508782",
+        "pvp.totalDeath": "31641",
+        "pvp.totalDmgDone": "1252231939.3474",
+        "pvp.totalHealingDone": "679642591.8383",
+        "pvp.totalKill": "26826",
+        "pvp.totalVpDmgDone": "42942.455448717",
+        "coop.gameWin": "3121",
+        "coop.gamePlayed": "3207",
+        "coop.totalBattleTime": "994796669",
+        "openWorld.karma": "340198",
+        "clan.name": "Last Man Standing",
+        "clan.tag": "FAITH",
+        "clan.cid": "2848",
+        "clan.pvpRating": "17162",
+        "clan.pveRating": "273057"
+      }
+    }
+  }
+}

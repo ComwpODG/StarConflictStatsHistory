@@ -98,6 +98,53 @@
         "clan.pvpRating": "13584",
         "clan.pveRating": "477071"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:41.9356939Z",
+      "Flat": {
+        "effRating": "6626.9311523438",
+        "nickName": "777Topor777",
+        "prestigeBonus": "1.75",
+        "uid": "2907149",
+        "accountRank": "25",
+        "pve.gamePlayed": "38414",
+        "pve.unlimPve_playerAttackLevel": "303",
+        "pve.unlimPve_playerDefenceLevel": "232",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "109",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "172",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "86",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "87",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "89",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "87",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "77",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "95",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "93",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "65",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "102",
+        "pve.unlimPve_missionLevels.piratebay_hard": "82",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "72",
+        "pve.unlimPve_missionLevels.magnificent_seven": "70",
+        "pve.unlimPve_missionLevels.stealth": "26",
+        "pve.wavePve_maxWave": "99",
+        "pvp.gamePlayed": "2122",
+        "pvp.totalAssists": "15383",
+        "pvp.totalBattleTime": "1058019169",
+        "pvp.totalDeath": "4595",
+        "pvp.totalDmgDone": "203980015.36684",
+        "pvp.totalHealingDone": "37752973.802505",
+        "pvp.totalKill": "5661",
+        "pvp.totalVpDmgDone": "3035.0605184063",
+        "pvp.gameWin": "918",
+        "coop.gameWin": "13815",
+        "coop.gamePlayed": "13916",
+        "coop.totalBattleTime": "3695534266",
+        "openWorld.karma": "3273831",
+        "clan.name": "LosBanditos",
+        "clan.tag": "OPG",
+        "clan.cid": "6021",
+        "clan.pvpRating": "11809",
+        "clan.pveRating": "437119"
+      }
     }
   }
 }

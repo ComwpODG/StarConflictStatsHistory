@@ -1038,6 +1038,53 @@
         "clan.pvpRating": "65",
         "clan.pveRating": "35244"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:01:14.5766361Z",
+      "Flat": {
+        "nickName": "Tertullian1",
+        "uid": "3577934",
+        "prestigeBonus": "2.98",
+        "accountRank": "21",
+        "effRating": "8231.7353515625",
+        "pve.gamePlayed": "8621",
+        "pve.unlimPve_playerAttackLevel": "243",
+        "pve.unlimPve_playerDefenceLevel": "171",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "76",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "200",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "73",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "73",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "81",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "79",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "101",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "50",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "73",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "74",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "66",
+        "pve.unlimPve_missionLevels.piratebay_hard": "71",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "51",
+        "pve.unlimPve_missionLevels.magnificent_seven": "43",
+        "pve.unlimPve_missionLevels.stealth": "29",
+        "pve.wavePve_maxWave": "89",
+        "pvp.totalKill": "3972",
+        "pvp.totalDeath": "7075",
+        "pvp.totalAssists": "13840",
+        "pvp.gamePlayed": "3280",
+        "pvp.totalDmgDone": "167101068.38684",
+        "pvp.totalVpDmgDone": "36866.99233374",
+        "pvp.totalHealingDone": "91718264.001053",
+        "pvp.totalBattleTime": "1749964952",
+        "pvp.gameWin": "1215",
+        "coop.gameWin": "4630",
+        "coop.gamePlayed": "4696",
+        "coop.totalBattleTime": "1403981247",
+        "openWorld.karma": "1172734",
+        "clan.name": "Pegasus Command",
+        "clan.tag": "PEGCG",
+        "clan.cid": "4865",
+        "clan.pvpRating": "41",
+        "clan.pveRating": "37833"
+      }
     }
   }
 }

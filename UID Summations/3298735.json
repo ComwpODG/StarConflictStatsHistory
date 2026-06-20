@@ -709,6 +709,53 @@
         "clan.pvpRating": "-286",
         "clan.pveRating": "30680"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:24.4277731Z",
+      "Flat": {
+        "nickName": "minimum",
+        "uid": "3298735",
+        "prestigeBonus": "1.69",
+        "effRating": "7686.490234375",
+        "accountRank": "23",
+        "pve.gamePlayed": "4743",
+        "pve.unlimPve_playerAttackLevel": "87",
+        "pve.unlimPve_playerDefenceLevel": "61",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "50",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "40",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "34",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "38",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "33",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "32",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "32",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "80",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "30",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "31",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "61",
+        "pve.unlimPve_missionLevels.piratebay_hard": "63",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "24",
+        "pve.unlimPve_missionLevels.magnificent_seven": "21",
+        "pve.unlimPve_missionLevels.stealth": "13",
+        "pve.wavePve_maxWave": "22",
+        "pvp.totalKill": "41385",
+        "pvp.totalDeath": "33785",
+        "pvp.totalAssists": "125154",
+        "pvp.gamePlayed": "11994",
+        "pvp.gameWin": "5695",
+        "pvp.totalDmgDone": "1194868991.248",
+        "pvp.totalVpDmgDone": "43179.235910334",
+        "pvp.totalHealingDone": "259631820.89468",
+        "pvp.totalBattleTime": "6934716627",
+        "coop.gameWin": "5979",
+        "coop.gamePlayed": "6084",
+        "coop.totalBattleTime": "1829403857",
+        "openWorld.karma": "1218649",
+        "clan.name": "Lock n Load",
+        "clan.tag": "MITCH",
+        "clan.cid": "5134",
+        "clan.pvpRating": "-358",
+        "clan.pveRating": "31023"
+      }
     }
   }
 }
