@@ -664,6 +664,36 @@
         "clan.pvpRating": "10492",
         "clan.pveRating": "322478"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:07.8460152Z",
+      "Flat": {
+        "effRating": "3990.7719726562",
+        "nickName": "gottalovecookies",
+        "prestigeBonus": "0.24",
+        "uid": "264260",
+        "accountRank": "15",
+        "pve.gamePlayed": "1400",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pvp.gamePlayed": "2096",
+        "pvp.gameWin": "871",
+        "pvp.totalAssists": "8856",
+        "pvp.totalBattleTime": "907278011",
+        "pvp.totalDeath": "3895",
+        "pvp.totalDmgDone": "165988483.10043",
+        "pvp.totalHealingDone": "18340735.663116",
+        "pvp.totalKill": "2338",
+        "pvp.totalVpDmgDone": "3695.2231752872",
+        "coop.gameWin": "178",
+        "coop.gamePlayed": "186",
+        "coop.totalBattleTime": "58062427",
+        "openWorld.karma": "5116",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11202",
+        "clan.pveRating": "263241"
+      }
     }
   }
 }

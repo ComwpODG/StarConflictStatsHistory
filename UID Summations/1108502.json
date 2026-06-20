@@ -1,0 +1,56 @@
+{
+  "uid": 1108502,
+  "latestName": "777KASH777",
+  "knownNames": [
+    "777KASH777"
+  ],
+  "history": {
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:49.7777594Z",
+      "Flat": {
+        "effRating": "6401.62890625",
+        "nickName": "777KASH777",
+        "prestigeBonus": "2.02",
+        "uid": "1108502",
+        "accountRank": "22",
+        "pve.gamePlayed": "4977",
+        "pve.unlimPve_playerAttackLevel": "141",
+        "pve.unlimPve_playerDefenceLevel": "61",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "48",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "51",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "72",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "49",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "189",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "55",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "38",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "70",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "48",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "33",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "22",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "22",
+        "pve.unlimPve_missionLevels.piratebay_hard": "88",
+        "pve.unlimPve_missionLevels.magnificent_seven": "27",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.wavePve_maxWave": "72",
+        "pvp.gamePlayed": "6332",
+        "pvp.gameWin": "3250",
+        "pvp.totalAssists": "44659",
+        "pvp.totalBattleTime": "2938139729",
+        "pvp.totalDeath": "14402",
+        "pvp.totalDmgDone": "885038903.65031",
+        "pvp.totalHealingDone": "196176167.77982",
+        "pvp.totalKill": "17576",
+        "pvp.totalVpDmgDone": "38984.658543177",
+        "coop.gameWin": "789",
+        "coop.gamePlayed": "811",
+        "coop.totalBattleTime": "248305565",
+        "openWorld.karma": "264471",
+        "clan.name": "Aprel",
+        "clan.tag": "BECHA",
+        "clan.cid": "6153",
+        "clan.pvpRating": "25625",
+        "clan.pveRating": "522672"
+      }
+    }
+  }
+}

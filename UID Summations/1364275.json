@@ -1016,6 +1016,52 @@
         "clan.pvpRating": "11233",
         "clan.pveRating": "252284"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:45.1008774Z",
+      "Flat": {
+        "effRating": "9314.8310546875",
+        "nickName": "tryb",
+        "prestigeBonus": "2.12",
+        "uid": "1364275",
+        "accountRank": "24",
+        "pve.gamePlayed": "1487",
+        "pve.unlimPve_playerAttackLevel": "36",
+        "pve.unlimPve_playerDefenceLevel": "25",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "17",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "22",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "16",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "19",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "14",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "21",
+        "pve.unlimPve_missionLevels.piratebay_hard": "7",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "20",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "24",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "13",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "12",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "8",
+        "pve.unlimPve_missionLevels.magnificent_seven": "6",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "2",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pvp.gamePlayed": "24040",
+        "pvp.gameWin": "13301",
+        "pvp.totalAssists": "219793",
+        "pvp.totalBattleTime": "12246766382",
+        "pvp.totalDeath": "77322",
+        "pvp.totalDmgDone": "4318546763.7763",
+        "pvp.totalHealingDone": "702001322.73418",
+        "pvp.totalKill": "109217",
+        "pvp.totalVpDmgDone": "199630.20476973",
+        "coop.gameWin": "183",
+        "coop.gamePlayed": "185",
+        "coop.totalBattleTime": "49828834",
+        "openWorld.karma": "115921",
+        "clan.name": "FeelingOfGreatness",
+        "clan.tag": "4CB",
+        "clan.cid": "4505",
+        "clan.pvpRating": "10686",
+        "clan.pveRating": "226635"
+      }
     }
   }
 }

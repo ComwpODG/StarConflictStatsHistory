@@ -991,6 +991,53 @@
         "clan.pvpRating": "14683",
         "clan.pveRating": "21584"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:00.7397303Z",
+      "Flat": {
+        "effRating": "9494.40234375",
+        "nickName": "SamueL",
+        "prestigeBonus": "2.67",
+        "uid": "1367128",
+        "accountRank": "25",
+        "pve.gamePlayed": "2032",
+        "pve.unlimPve_playerAttackLevel": "30",
+        "pve.unlimPve_playerDefenceLevel": "10",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "20",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "19",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "15",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "22",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "24",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "52",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "19",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "6",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "20",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "7",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "18",
+        "pve.unlimPve_missionLevels.piratebay_hard": "26",
+        "pve.unlimPve_missionLevels.magnificent_seven": "18",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "16",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.wavePve_maxWave": "72",
+        "pvp.gamePlayed": "19124",
+        "pvp.gameWin": "15575",
+        "pvp.totalAssists": "192745",
+        "pvp.totalBattleTime": "9625377809",
+        "pvp.totalDeath": "26899",
+        "pvp.totalDmgDone": "3457232190.7449",
+        "pvp.totalHealingDone": "1124352638.5833",
+        "pvp.totalKill": "154796",
+        "pvp.totalVpDmgDone": "171117.89521568",
+        "coop.gameWin": "983",
+        "coop.gamePlayed": "1001",
+        "coop.totalBattleTime": "298898882",
+        "openWorld.karma": "-138202",
+        "clan.name": "Pay to Win",
+        "clan.tag": "P2W",
+        "clan.cid": "3521",
+        "clan.pvpRating": "12590",
+        "clan.pveRating": "18264"
+      }
     }
   }
 }

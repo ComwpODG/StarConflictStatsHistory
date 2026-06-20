@@ -679,6 +679,51 @@
         "clan.pvpRating": "-80",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:17.1001654Z",
+      "Flat": {
+        "effRating": "8970.3720703125",
+        "nickName": "DeleteD",
+        "prestigeBonus": "2.68",
+        "uid": "1638876",
+        "accountRank": "25",
+        "pve.gamePlayed": "3856",
+        "pve.unlimPve_playerAttackLevel": "57",
+        "pve.unlimPve_playerDefenceLevel": "8",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "21",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "16",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "11",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "19",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "25",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "14",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "14",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "10",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "14",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "15",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "7",
+        "pve.unlimPve_missionLevels.piratebay_hard": "6",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "4",
+        "pve.unlimPve_missionLevels.magnificent_seven": "3",
+        "pvp.gamePlayed": "73634",
+        "pvp.gameWin": "51241",
+        "pvp.totalAssists": "701724",
+        "pvp.totalBattleTime": "35270567599",
+        "pvp.totalDeath": "82472",
+        "pvp.totalDmgDone": "17682199143.669",
+        "pvp.totalHealingDone": "3951371723.3011",
+        "pvp.totalKill": "458579",
+        "pvp.totalVpDmgDone": "473862.08404507",
+        "coop.gameWin": "290",
+        "coop.gamePlayed": "290",
+        "coop.totalBattleTime": "81939769",
+        "openWorld.karma": "44168",
+        "clan.name": "Lamento el Trauma",
+        "clan.tag": "LET",
+        "clan.cid": "5861",
+        "clan.pvpRating": "-80",
+        "clan.pveRating": "0"
+      }
     }
   }
 }

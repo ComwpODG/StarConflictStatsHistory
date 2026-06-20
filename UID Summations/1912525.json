@@ -1016,6 +1016,52 @@
         "clan.pvpRating": "10492",
         "clan.pveRating": "322478"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:00:13.9772027Z",
+      "Flat": {
+        "effRating": "8346.2412109375",
+        "nickName": "Khushal64n6",
+        "prestigeBonus": "1.83",
+        "uid": "1912525",
+        "accountRank": "22",
+        "pve.gamePlayed": "1822",
+        "pve.unlimPve_playerAttackLevel": "131",
+        "pve.unlimPve_playerDefenceLevel": "121",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "29",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "40",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "52",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "57",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "63",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "51",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "56",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "53",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "45",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "45",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "28",
+        "pve.unlimPve_missionLevels.piratebay_hard": "14",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "20",
+        "pve.unlimPve_missionLevels.magnificent_seven": "28",
+        "pve.wavePve_maxWave": "71",
+        "pvp.gamePlayed": "5450",
+        "pvp.gameWin": "2715",
+        "pvp.totalAssists": "26870",
+        "pvp.totalBattleTime": "2593073318",
+        "pvp.totalDeath": "12623",
+        "pvp.totalDmgDone": "474992624.37054",
+        "pvp.totalHealingDone": "75672713.398636",
+        "pvp.totalKill": "11908",
+        "pvp.totalVpDmgDone": "32741.278808877",
+        "coop.gameWin": "981",
+        "coop.gamePlayed": "995",
+        "coop.totalBattleTime": "286802785",
+        "openWorld.karma": "390911",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11202",
+        "clan.pveRating": "263241"
+      }
     }
   }
 }

@@ -709,6 +709,53 @@
         "clan.pvpRating": "11015",
         "clan.pveRating": "336812"
       }
+    },
+    "2026-06-19": {
+      "TakenAtUtc": "2026-06-19T23:02:37.1217933Z",
+      "Flat": {
+        "effRating": "7958.7768554688",
+        "nickName": "theGhost",
+        "prestigeBonus": "2.96",
+        "uid": "959929",
+        "accountRank": "25",
+        "pve.gamePlayed": "9702",
+        "pve.unlimPve_playerAttackLevel": "111",
+        "pve.unlimPve_playerDefenceLevel": "111",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "81",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "44",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "103",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "52",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "51",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "45",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "59",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "48",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "35",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "48",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "79",
+        "pve.unlimPve_missionLevels.piratebay_hard": "53",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "19",
+        "pve.unlimPve_missionLevels.magnificent_seven": "20",
+        "pve.unlimPve_missionLevels.stealth": "16",
+        "pve.wavePve_maxWave": "22",
+        "pvp.gamePlayed": "11402",
+        "pvp.gameWin": "5615",
+        "pvp.totalAssists": "96122",
+        "pvp.totalBattleTime": "5758131624",
+        "pvp.totalDeath": "24516",
+        "pvp.totalDmgDone": "1508939664.6843",
+        "pvp.totalHealingDone": "310943025.24246",
+        "pvp.totalKill": "35370",
+        "pvp.totalVpDmgDone": "30076.697765149",
+        "coop.gameWin": "4409",
+        "coop.gamePlayed": "4453",
+        "coop.totalBattleTime": "1284426269",
+        "openWorld.karma": "320875",
+        "clan.name": "Alliance Red",
+        "clan.tag": "",
+        "clan.cid": "4412",
+        "clan.pvpRating": "9657",
+        "clan.pveRating": "330905"
+      }
     }
   }
 }
