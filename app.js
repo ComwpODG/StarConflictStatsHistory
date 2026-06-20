@@ -177,7 +177,7 @@ async function generateGraph() {
 				const death =
 					deathMap.get(date) ?? 0;
 				if (death <= 0)
-					death = 1;
+					return kill;
 				return kill / death;
 			});
 		} else if (stat === "K+A/D") {
@@ -195,7 +195,7 @@ async function generateGraph() {
 				const death =
 					deathMap.get(date) ?? 0;
 				if (death <= 0)
-					death = 1;
+					return (kill+assist);
 				return (kill+assist) / death;
 			});
 		} else if (stat === "K/Min") {
