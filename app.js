@@ -148,7 +148,7 @@ async function generateGraph() {
 					dmgMap.get(date) ?? 0;
 				const battles =
 					battleMap.get(date) ?? 0;
-				if (battles <= 0)
+				if (dmg <= 0)
 					return 0;
 				return dmg / battles;
 			});
@@ -176,7 +176,7 @@ async function generateGraph() {
 					killMap.get(date) ?? 0;
 				const death =
 					deathMap.get(date) ?? 0;
-				if (battles <= 0)
+				if (death <= 0)
 					return 0;
 				return kill / death;
 			});
@@ -194,7 +194,7 @@ async function generateGraph() {
 					assistMap.get(date) ?? 0;
 				const death =
 					deathMap.get(date) ?? 0;
-				if (battles <= 0)
+				if (death <= 0)
 					return 0;
 				return (kill+assist) / death;
 			});
@@ -208,7 +208,7 @@ async function generateGraph() {
 					killMap.get(date) ?? 0;
 				const time =
 					timeMap.get(date) ?? 0;
-				if (battles <= 0)
+				if (time <= 0)
 					return 0;
 				return kill / (time/60);
 			});
@@ -222,7 +222,7 @@ async function generateGraph() {
 					winMap.get(date) ?? 0;
 				const played =
 					playedMap.get(date) ?? 0;
-				if (battles <= 0)
+				if (played <= 0)
 					return 0;
 				return win / (played-win);
 			});
