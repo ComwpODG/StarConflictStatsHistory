@@ -740,6 +740,70 @@
         "clan.pvpRating": "11202",
         "clan.pveRating": "263241"
       }
+    },
+    "2026-06-20": {
+      "TakenAtUtc": "2026-06-20T23:00:33.7212794Z",
+      "Flat": {
+        "effRating": "3944.6118164062",
+        "nickName": "Joshua101112214",
+        "prestigeBonus": "0.48",
+        "uid": "384187",
+        "accountRank": "11",
+        "pve.gamePlayed": "404",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pvp.gamePlayed": "1346",
+        "pvp.gameWin": "618",
+        "pvp.totalAssists": "5057",
+        "pvp.totalBattleTime": "532801353",
+        "pvp.totalDeath": "2633",
+        "pvp.totalDmgDone": "88103869.981789",
+        "pvp.totalHealingDone": "9729599.9318237",
+        "pvp.totalKill": "2936",
+        "pvp.totalVpDmgDone": "2339.5232905746",
+        "coop.gameWin": "22",
+        "coop.gamePlayed": "22",
+        "coop.totalBattleTime": "5619442",
+        "openWorld.karma": "4862",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "10065",
+        "clan.pveRating": "365361"
+      }
+    },
+    "2026-06-21": {
+      "TakenAtUtc": "2026-06-21T23:00:37.9153532Z",
+      "Flat": {
+        "effRating": "3944.6118164062",
+        "nickName": "Joshua101112214",
+        "prestigeBonus": "0.48",
+        "uid": "384187",
+        "accountRank": "11",
+        "pve.gamePlayed": "404",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pvp.gamePlayed": "1346",
+        "pvp.gameWin": "618",
+        "pvp.totalAssists": "5057",
+        "pvp.totalBattleTime": "532801353",
+        "pvp.totalDeath": "2633",
+        "pvp.totalDmgDone": "88103869.981789",
+        "pvp.totalHealingDone": "9729599.9318237",
+        "pvp.totalKill": "2936",
+        "pvp.totalVpDmgDone": "2339.5232905746",
+        "coop.gameWin": "22",
+        "coop.gamePlayed": "22",
+        "coop.totalBattleTime": "5619442",
+        "openWorld.karma": "4862",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "9330",
+        "clan.pveRating": "299012"
+      }
     }
   }
 }

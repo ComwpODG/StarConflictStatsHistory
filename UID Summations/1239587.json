@@ -740,6 +740,70 @@
         "clan.pvpRating": "5353",
         "clan.pveRating": "11319"
       }
+    },
+    "2026-06-20": {
+      "TakenAtUtc": "2026-06-20T23:00:50.7629388Z",
+      "Flat": {
+        "effRating": "9001.9794921875",
+        "nickName": "Lucifer969",
+        "prestigeBonus": "0.83",
+        "uid": "1239587",
+        "accountRank": "17",
+        "pve.gamePlayed": "36",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "2",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "3",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pvp.gamePlayed": "8916",
+        "pvp.gameWin": "4641",
+        "pvp.totalAssists": "83585",
+        "pvp.totalBattleTime": "4877305367",
+        "pvp.totalDeath": "17659",
+        "pvp.totalDmgDone": "2454209758.488",
+        "pvp.totalHealingDone": "283341236.72872",
+        "pvp.totalKill": "45016",
+        "pvp.totalVpDmgDone": "52023.491733372",
+        "coop.gameWin": "19",
+        "coop.gamePlayed": "19",
+        "coop.totalBattleTime": "6963374",
+        "clan.name": "Rasta DJA Mania",
+        "clan.tag": "ZBS",
+        "clan.cid": "4846",
+        "clan.pvpRating": "4506",
+        "clan.pveRating": "8881"
+      }
+    },
+    "2026-06-21": {
+      "TakenAtUtc": "2026-06-21T23:00:55.6503834Z",
+      "Flat": {
+        "effRating": "9013.603515625",
+        "nickName": "Lucifer969",
+        "prestigeBonus": "0.83",
+        "uid": "1239587",
+        "accountRank": "17",
+        "pve.gamePlayed": "36",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "2",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "3",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pvp.gamePlayed": "8928",
+        "pvp.gameWin": "4645",
+        "pvp.totalAssists": "83697",
+        "pvp.totalBattleTime": "4884954067",
+        "pvp.totalDeath": "17682",
+        "pvp.totalDmgDone": "2458827578.2223",
+        "pvp.totalHealingDone": "284067496.42403",
+        "pvp.totalKill": "45101",
+        "pvp.totalVpDmgDone": "52124.379085362",
+        "coop.gameWin": "19",
+        "coop.gamePlayed": "19",
+        "coop.totalBattleTime": "6963374",
+        "clan.name": "Rasta DJA Mania",
+        "clan.tag": "ZBS",
+        "clan.cid": "4846",
+        "clan.pvpRating": "3884",
+        "clan.pveRating": "7252"
+      }
     }
   }
 }
