@@ -1104,6 +1104,50 @@
         "clan.pvpRating": "10",
         "clan.pveRating": "44196"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:24.3332166Z",
+      "Flat": {
+        "nickName": "PegComAer",
+        "uid": "3561997",
+        "prestigeBonus": "0.78",
+        "accountRank": "18",
+        "effRating": "6953.791015625",
+        "pve.gamePlayed": "418",
+        "pve.unlimPve_playerAttackLevel": "27",
+        "pve.unlimPve_playerDefenceLevel": "11",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "17",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "13",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "19",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "11",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "13",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "7",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "18",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "12",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "12",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "13",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "12",
+        "pve.unlimPve_missionLevels.piratebay_hard": "2",
+        "pve.wavePve_maxWave": "12",
+        "pvp.totalKill": "2991",
+        "pvp.totalDeath": "3472",
+        "pvp.totalAssists": "5573",
+        "pvp.gamePlayed": "1121",
+        "pvp.totalDmgDone": "67358296.515476",
+        "pvp.totalVpDmgDone": "7013.8695371822",
+        "pvp.totalHealingDone": "28828725.203491",
+        "pvp.totalBattleTime": "605927074",
+        "pvp.gameWin": "343",
+        "coop.gameWin": "840",
+        "coop.gamePlayed": "875",
+        "coop.totalBattleTime": "272616396",
+        "openWorld.karma": "1986",
+        "clan.name": "Pegasus Command",
+        "clan.tag": "PEGCG",
+        "clan.cid": "4865",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "46174"
+      }
     }
   }
 }

@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "8524",
         "clan.pveRating": "39944"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:32.3117643Z",
+      "Flat": {
+        "effRating": "9674.6875",
+        "nickName": "xSterben",
+        "prestigeBonus": "2.51",
+        "uid": "2900776",
+        "accountRank": "25",
+        "pve.gamePlayed": "5743",
+        "pve.unlimPve_playerAttackLevel": "166",
+        "pve.unlimPve_playerDefenceLevel": "33",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "106",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "54",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "50",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "53",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "36",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "146",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "61",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "49",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "91",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "27",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "52",
+        "pve.unlimPve_missionLevels.piratebay_hard": "98",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "49",
+        "pve.unlimPve_missionLevels.magnificent_seven": "32",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.wavePve_maxWave": "72",
+        "pvp.gamePlayed": "13866",
+        "pvp.gameWin": "10362",
+        "pvp.totalAssists": "132378",
+        "pvp.totalBattleTime": "7186067102",
+        "pvp.totalDeath": "18307",
+        "pvp.totalDmgDone": "2599060867.9187",
+        "pvp.totalHealingDone": "750702262.08015",
+        "pvp.totalKill": "104132",
+        "pvp.totalVpDmgDone": "147249.98893157",
+        "coop.gameWin": "1212",
+        "coop.gamePlayed": "1226",
+        "coop.totalBattleTime": "308818177",
+        "openWorld.karma": "-3119022",
+        "clan.name": "TerraLuX",
+        "clan.tag": "LuX",
+        "clan.cid": "1867",
+        "clan.pvpRating": "7752",
+        "clan.pveRating": "36860"
+      }
     }
   }
 }

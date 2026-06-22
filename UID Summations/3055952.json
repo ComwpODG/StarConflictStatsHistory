@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "13243",
         "clan.pveRating": "192313"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:43.4522522Z",
+      "Flat": {
+        "nickName": "Koschey",
+        "uid": "3055952",
+        "prestigeBonus": "1.37",
+        "effRating": "9081.416015625",
+        "accountRank": "22",
+        "pvp.totalKill": "45794",
+        "pvp.totalDeath": "27776",
+        "pvp.totalAssists": "83400",
+        "pvp.gamePlayed": "9861",
+        "pvp.gameWin": "5317",
+        "pvp.totalDmgDone": "1083852930.1551",
+        "pvp.totalVpDmgDone": "150940.80345201",
+        "pvp.totalHealingDone": "231842723.93956",
+        "pvp.totalBattleTime": "4854624336",
+        "pve.gamePlayed": "1895",
+        "pve.unlimPve_playerAttackLevel": "40",
+        "pve.unlimPve_playerDefenceLevel": "39",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "28",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "25",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "31",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "25",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "23",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "24",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "28",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "23",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "35",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "23",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "39",
+        "pve.unlimPve_missionLevels.piratebay_hard": "19",
+        "pve.unlimPve_missionLevels.magnificent_seven": "15",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "11",
+        "pve.unlimPve_missionLevels.stealth": "8",
+        "pve.wavePve_maxWave": "63",
+        "coop.gameWin": "703",
+        "coop.gamePlayed": "715",
+        "coop.totalBattleTime": "216110031",
+        "openWorld.karma": "70412",
+        "clan.name": "Real Black Mark",
+        "clan.tag": "RIM",
+        "clan.cid": "3839",
+        "clan.pvpRating": "13147",
+        "clan.pveRating": "177606"
+      }
     }
   }
 }

@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "282",
         "clan.pveRating": "64388"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:56.0944155Z",
+      "Flat": {
+        "effRating": "6125.060546875",
+        "nickName": "Kommboy",
+        "prestigeBonus": "3.1",
+        "uid": "2675864",
+        "accountRank": "25",
+        "pve.gamePlayed": "22461",
+        "pve.unlimPve_playerAttackLevel": "272",
+        "pve.unlimPve_playerDefenceLevel": "258",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "86",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "73",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "98",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "96",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "100",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "96",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "103",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "148",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "93",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "96",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "74",
+        "pve.unlimPve_missionLevels.piratebay_hard": "79",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "87",
+        "pve.unlimPve_missionLevels.magnificent_seven": "89",
+        "pve.unlimPve_missionLevels.stealth": "21",
+        "pve.wavePve_maxWave": "71",
+        "pvp.gamePlayed": "9742",
+        "pvp.gameWin": "4641",
+        "pvp.totalAssists": "80187",
+        "pvp.totalBattleTime": "5237658200",
+        "pvp.totalDeath": "38693",
+        "pvp.totalDmgDone": "1412057771.1997",
+        "pvp.totalHealingDone": "287829619.22488",
+        "pvp.totalKill": "22033",
+        "pvp.totalVpDmgDone": "82364.612228632",
+        "coop.gameWin": "8916",
+        "coop.gamePlayed": "8999",
+        "coop.totalBattleTime": "2414876525",
+        "openWorld.karma": "573091",
+        "clan.name": "KOPEIII",
+        "clan.tag": "",
+        "clan.cid": "2822",
+        "clan.pvpRating": "210",
+        "clan.pveRating": "60399"
+      }
     }
   }
 }

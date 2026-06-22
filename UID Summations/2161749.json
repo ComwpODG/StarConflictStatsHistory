@@ -850,6 +850,53 @@
         "clan.pvpRating": "550",
         "clan.pveRating": "11506"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:02:41.3486797Z",
+      "Flat": {
+        "effRating": "8353.837890625",
+        "nickName": "VULKANCHIK",
+        "prestigeBonus": "2.04",
+        "uid": "2161749",
+        "accountRank": "22",
+        "pve.gamePlayed": "14843",
+        "pve.unlimPve_playerAttackLevel": "106",
+        "pve.unlimPve_playerDefenceLevel": "106",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "66",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "47",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "43",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "49",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "39",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "109",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "74",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "44",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "48",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "42",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "42",
+        "pve.unlimPve_missionLevels.piratebay_hard": "54",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "15",
+        "pve.unlimPve_missionLevels.magnificent_seven": "22",
+        "pve.unlimPve_missionLevels.stealth": "11",
+        "pve.wavePve_maxWave": "60",
+        "pvp.gamePlayed": "13104",
+        "pvp.gameWin": "5966",
+        "pvp.totalAssists": "101521",
+        "pvp.totalBattleTime": "6922092731",
+        "pvp.totalDeath": "46012",
+        "pvp.totalDmgDone": "1489156133.9249",
+        "pvp.totalHealingDone": "671539758.22784",
+        "pvp.totalKill": "29751",
+        "pvp.totalVpDmgDone": "29978.025663525",
+        "coop.gameWin": "2888",
+        "coop.gamePlayed": "2933",
+        "coop.totalBattleTime": "921872729",
+        "openWorld.karma": "136175",
+        "clan.name": "ENISEY",
+        "clan.tag": "ENIS",
+        "clan.cid": "4184",
+        "clan.pvpRating": "421",
+        "clan.pveRating": "9031"
+      }
     }
   }
 }

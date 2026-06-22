@@ -1129,6 +1129,51 @@
         "clan.pvpRating": "3998",
         "clan.pveRating": "82791"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:02.5824505Z",
+      "Flat": {
+        "nickName": "ScarletBlunder",
+        "uid": "3352509",
+        "prestigeBonus": "0.38",
+        "accountRank": "17",
+        "effRating": "7222.0146484375",
+        "pvp.totalKill": "3839",
+        "pvp.totalDeath": "4616",
+        "pvp.totalAssists": "5174",
+        "pvp.gamePlayed": "1356",
+        "pvp.totalDmgDone": "94780526.62278",
+        "pvp.totalVpDmgDone": "17506.6002797",
+        "pvp.totalHealingDone": "50634250.569046",
+        "pvp.totalBattleTime": "712159486",
+        "pvp.gameWin": "395",
+        "pve.gamePlayed": "217",
+        "pve.unlimPve_playerAttackLevel": "20",
+        "pve.unlimPve_playerDefenceLevel": "42",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "7",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "4",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "18",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "3",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "5",
+        "pve.unlimPve_missionLevels.piratebay_hard": "46",
+        "pve.unlimPve_missionLevels.magnificent_seven": "3",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "2",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "5",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "3",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "3",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "2",
+        "pve.wavePve_maxWave": "40",
+        "coop.gameWin": "353",
+        "coop.gamePlayed": "369",
+        "coop.totalBattleTime": "175579972",
+        "openWorld.karma": "15985",
+        "clan.name": "OwO WING",
+        "clan.tag": "0w0",
+        "clan.cid": "5701",
+        "clan.pvpRating": "634",
+        "clan.pveRating": "67878"
+      }
     }
   }
 }

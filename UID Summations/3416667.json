@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "3998",
         "clan.pveRating": "82791"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:39.8528071Z",
+      "Flat": {
+        "nickName": "nmhrtbrk",
+        "uid": "3416667",
+        "prestigeBonus": "2.68",
+        "accountRank": "25",
+        "effRating": "8893.5107421875",
+        "pvp.totalKill": "29000",
+        "pvp.totalDeath": "40414",
+        "pvp.totalAssists": "70336",
+        "pvp.gamePlayed": "14191",
+        "pvp.totalDmgDone": "916324911.17012",
+        "pvp.totalVpDmgDone": "355886.45944988",
+        "pvp.totalHealingDone": "619491202.12311",
+        "pvp.totalBattleTime": "7257834332",
+        "pvp.gameWin": "5682",
+        "pve.gamePlayed": "3651",
+        "pve.unlimPve_playerAttackLevel": "87",
+        "pve.unlimPve_playerDefenceLevel": "88",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "45",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "40",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "40",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "68",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "39",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "86",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "66",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "43",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "31",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "48",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "35",
+        "pve.unlimPve_missionLevels.piratebay_hard": "43",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "16",
+        "pve.unlimPve_missionLevels.magnificent_seven": "12",
+        "pve.unlimPve_missionLevels.stealth": "7",
+        "pve.wavePve_maxWave": "37",
+        "coop.gameWin": "4275",
+        "coop.gamePlayed": "4304",
+        "coop.totalBattleTime": "1195418435",
+        "openWorld.karma": "3048263",
+        "clan.name": "OwO WING",
+        "clan.tag": "0w0",
+        "clan.cid": "5701",
+        "clan.pvpRating": "634",
+        "clan.pveRating": "67878"
+      }
     }
   }
 }
