@@ -1154,6 +1154,52 @@
         "clan.pvpRating": "8524",
         "clan.pveRating": "39944"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:39.0401641Z",
+      "Flat": {
+        "nickName": "Glaodh",
+        "uid": "3948222",
+        "accountRank": "25",
+        "prestigeBonus": "1.91",
+        "effRating": "8186.1474609375",
+        "pve.gamePlayed": "6142",
+        "pve.unlimPve_playerAttackLevel": "185",
+        "pve.unlimPve_playerDefenceLevel": "121",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "58",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "62",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "69",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "87",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "63",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "62",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "61",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "58",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "73",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "24",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "23",
+        "pve.unlimPve_missionLevels.piratebay_hard": "68",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "43",
+        "pve.unlimPve_missionLevels.magnificent_seven": "35",
+        "pve.wavePve_maxWave": "71",
+        "pvp.totalKill": "16725",
+        "pvp.totalDeath": "10251",
+        "pvp.totalAssists": "24082",
+        "pvp.gamePlayed": "2861",
+        "pvp.totalDmgDone": "507219497.3019",
+        "pvp.totalVpDmgDone": "19374.657159217",
+        "pvp.totalHealingDone": "95161935.763329",
+        "pvp.totalBattleTime": "1629216155",
+        "pvp.gameWin": "1580",
+        "coop.gamePlayed": "1570",
+        "coop.totalBattleTime": "406647506",
+        "coop.gameWin": "1560",
+        "openWorld.karma": "306553",
+        "clan.name": "TerraLuX",
+        "clan.tag": "LuX",
+        "clan.cid": "1867",
+        "clan.pvpRating": "7752",
+        "clan.pveRating": "36860"
+      }
     }
   }
 }
