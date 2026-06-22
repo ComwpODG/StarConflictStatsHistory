@@ -804,6 +804,38 @@
         "clan.pvpRating": "9330",
         "clan.pveRating": "299012"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:31.4895547Z",
+      "Flat": {
+        "effRating": "3944.6118164062",
+        "nickName": "Joshua101112214",
+        "prestigeBonus": "0.48",
+        "uid": "384187",
+        "accountRank": "11",
+        "pve.gamePlayed": "404",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pvp.gamePlayed": "1346",
+        "pvp.gameWin": "618",
+        "pvp.totalAssists": "5057",
+        "pvp.totalBattleTime": "532801353",
+        "pvp.totalDeath": "2633",
+        "pvp.totalDmgDone": "88103869.981789",
+        "pvp.totalHealingDone": "9729599.9318237",
+        "pvp.totalKill": "2936",
+        "pvp.totalVpDmgDone": "2339.5232905746",
+        "coop.gameWin": "22",
+        "coop.gamePlayed": "22",
+        "coop.totalBattleTime": "5619442",
+        "openWorld.karma": "4862",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "9558",
+        "clan.pveRating": "236415"
+      }
     }
   }
 }

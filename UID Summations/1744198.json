@@ -1154,6 +1154,52 @@
         "clan.pvpRating": "9330",
         "clan.pveRating": "299012"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:26.6925992Z",
+      "Flat": {
+        "effRating": "7835.70703125",
+        "nickName": "Teku",
+        "prestigeBonus": "2.06",
+        "uid": "1744198",
+        "accountRank": "20",
+        "pve.gamePlayed": "1210",
+        "pve.unlimPve_playerAttackLevel": "48",
+        "pve.unlimPve_playerDefenceLevel": "42",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "33",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "8",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "34",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "16",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "24",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "25",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "14",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "22",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "15",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "8",
+        "pve.unlimPve_missionLevels.piratebay_hard": "70",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "16",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "9",
+        "pve.wavePve_maxWave": "68",
+        "pvp.gamePlayed": "1534",
+        "pvp.gameWin": "1280",
+        "pvp.totalAssists": "6626",
+        "pvp.totalBattleTime": "777223719",
+        "pvp.totalDeath": "1949",
+        "pvp.totalDmgDone": "153245791.98711",
+        "pvp.totalHealingDone": "29022531.968567",
+        "pvp.totalKill": "3308",
+        "pvp.totalVpDmgDone": "4116.326781854",
+        "coop.gameWin": "2793",
+        "coop.gamePlayed": "2826",
+        "coop.totalBattleTime": "804443404",
+        "openWorld.karma": "226781",
+        "clan.name": "Notepad Minus",
+        "clan.tag": "Minus",
+        "clan.cid": "1534",
+        "clan.pvpRating": "9558",
+        "clan.pveRating": "236415"
+      }
     }
   }
 }

@@ -121,6 +121,45 @@
         "coop.totalBattleTime": "322253515",
         "openWorld.karma": "27954"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:02:51.313744Z",
+      "Flat": {
+        "effRating": "8804.8125",
+        "nickName": "xlllGenerallllx",
+        "prestigeBonus": "2.21",
+        "uid": "141654",
+        "accountRank": "23",
+        "pve.gamePlayed": "2460",
+        "pve.unlimPve_playerAttackLevel": "20",
+        "pve.unlimPve_playerDefenceLevel": "15",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "8",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "11",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "7",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "8",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "16",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "9",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "7",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "11",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "9",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "5",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "3",
+        "pve.unlimPve_missionLevels.piratebay_hard": "8",
+        "pve.wavePve_maxWave": "21",
+        "pvp.gamePlayed": "54976",
+        "pvp.gameWin": "34623",
+        "pvp.totalAssists": "410169",
+        "pvp.totalBattleTime": "23986635831",
+        "pvp.totalDeath": "131752",
+        "pvp.totalDmgDone": "8487294690.6764",
+        "pvp.totalHealingDone": "1107620036.9662",
+        "pvp.totalKill": "164569",
+        "pvp.totalVpDmgDone": "583543.78054822",
+        "coop.gameWin": "1361",
+        "coop.gamePlayed": "1365",
+        "coop.totalBattleTime": "322253515",
+        "openWorld.karma": "27954"
+      }
     }
   }
 }

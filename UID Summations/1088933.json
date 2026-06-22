@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "3456",
         "clan.pveRating": "86377"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:58.52037Z",
+      "Flat": {
+        "effRating": "7469.9750976562",
+        "nickName": "borizm",
+        "prestigeBonus": "3.1",
+        "uid": "1088933",
+        "accountRank": "25",
+        "pve.gamePlayed": "23583",
+        "pve.unlimPve_playerAttackLevel": "1096",
+        "pve.unlimPve_playerDefenceLevel": "360",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "203",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "125",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "125",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "103",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "291",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "136",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "162",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "136",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "135",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "134",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "95",
+        "pve.unlimPve_missionLevels.piratebay_hard": "101",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "131",
+        "pve.unlimPve_missionLevels.magnificent_seven": "101",
+        "pve.unlimPve_missionLevels.stealth": "6",
+        "pve.wavePve_maxWave": "1164",
+        "pvp.gamePlayed": "9690",
+        "pvp.gameWin": "4578",
+        "pvp.totalAssists": "62252",
+        "pvp.totalBattleTime": "4455633511",
+        "pvp.totalDeath": "29714",
+        "pvp.totalDmgDone": "1182717935.413",
+        "pvp.totalHealingDone": "196233008.77155",
+        "pvp.totalKill": "25637",
+        "pvp.totalVpDmgDone": "91050.883701362",
+        "coop.gameWin": "8551",
+        "coop.gamePlayed": "8598",
+        "coop.totalBattleTime": "2192428420",
+        "openWorld.karma": "571154",
+        "clan.name": "GwiezdnaEskadra Zet",
+        "clan.tag": "ZetPL",
+        "clan.cid": "864",
+        "clan.pvpRating": "3028",
+        "clan.pveRating": "79608"
+      }
     }
   }
 }

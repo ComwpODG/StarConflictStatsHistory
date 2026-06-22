@@ -850,6 +850,53 @@
         "clan.pvpRating": "0",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:02:44.8102453Z",
+      "Flat": {
+        "effRating": "8351.30078125",
+        "nickName": "Nocturnal",
+        "prestigeBonus": "1.89",
+        "uid": "701531",
+        "accountRank": "21",
+        "pve.gamePlayed": "6903",
+        "pve.unlimPve_playerAttackLevel": "5",
+        "pve.unlimPve_playerDefenceLevel": "2",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "37",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "32",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "41",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "39",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "27",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "27",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "25",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "26",
+        "pve.unlimPve_missionLevels.piratebay_hard": "26",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "18",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "27",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "17",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "13",
+        "pve.unlimPve_missionLevels.magnificent_seven": "18",
+        "pve.unlimPve_missionLevels.stealth": "9",
+        "pve.wavePve_maxWave": "24",
+        "pvp.gamePlayed": "10151",
+        "pvp.gameWin": "5142",
+        "pvp.totalAssists": "69405",
+        "pvp.totalBattleTime": "4777112467",
+        "pvp.totalDeath": "22324",
+        "pvp.totalDmgDone": "1655575460.6809",
+        "pvp.totalHealingDone": "394275450.59292",
+        "pvp.totalKill": "21787",
+        "pvp.totalVpDmgDone": "29278.799763203",
+        "coop.gameWin": "869",
+        "coop.gamePlayed": "883",
+        "coop.totalBattleTime": "265131127",
+        "openWorld.karma": "34075",
+        "clan.name": "Genesis",
+        "clan.tag": "GEN",
+        "clan.cid": "1736",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
     }
   }
 }

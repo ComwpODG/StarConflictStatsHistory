@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "14362",
         "clan.pveRating": "701944"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:42.6107801Z",
+      "Flat": {
+        "effRating": "8977.0537109375",
+        "nickName": "DictumFactum",
+        "prestigeBonus": "1.93",
+        "uid": "255398",
+        "accountRank": "18",
+        "pve.gamePlayed": "10819",
+        "pve.unlimPve_playerAttackLevel": "103",
+        "pve.unlimPve_playerDefenceLevel": "92",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "46",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "47",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "56",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "41",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "41",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "42",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "40",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "42",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "38",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "38",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "53",
+        "pve.unlimPve_missionLevels.piratebay_hard": "39",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "12",
+        "pve.unlimPve_missionLevels.magnificent_seven": "14",
+        "pve.unlimPve_missionLevels.stealth": "10",
+        "pve.wavePve_maxWave": "60",
+        "pvp.gamePlayed": "7786",
+        "pvp.gameWin": "3890",
+        "pvp.totalAssists": "62718",
+        "pvp.totalBattleTime": "3812641888",
+        "pvp.totalDeath": "20889",
+        "pvp.totalDmgDone": "1358285097.221",
+        "pvp.totalHealingDone": "396637113.27078",
+        "pvp.totalKill": "21241",
+        "pvp.totalVpDmgDone": "18271.822837904",
+        "coop.gameWin": "1941",
+        "coop.gamePlayed": "1952",
+        "coop.totalBattleTime": "554537944",
+        "openWorld.karma": "536512",
+        "clan.name": "Cerberus",
+        "clan.tag": "CSA",
+        "clan.cid": "3351",
+        "clan.pvpRating": "22606",
+        "clan.pveRating": "676265"
+      }
     }
   }
 }

@@ -429,6 +429,23 @@
         "pvp.totalKill": "159",
         "pvp.totalVpDmgDone": "0"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:37.4870716Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
     }
   }
 }

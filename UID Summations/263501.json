@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "16008",
         "clan.pveRating": "320538"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:00:33.8447233Z",
+      "Flat": {
+        "effRating": "7762.4526367188",
+        "nickName": "TheDarkRedFox",
+        "prestigeBonus": "2.32",
+        "uid": "263501",
+        "accountRank": "24",
+        "pve.gamePlayed": "3931",
+        "pve.unlimPve_playerAttackLevel": "58",
+        "pve.unlimPve_playerDefenceLevel": "22",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "48",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "26",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "27",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "36",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "27",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "22",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "19",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "22",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "22",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "28",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "27",
+        "pve.unlimPve_missionLevels.piratebay_hard": "38",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "5",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pve.wavePve_maxWave": "22",
+        "pvp.gamePlayed": "6717",
+        "pvp.gameWin": "3181",
+        "pvp.totalAssists": "40232",
+        "pvp.totalBattleTime": "2971847134",
+        "pvp.totalDeath": "18437",
+        "pvp.totalDmgDone": "1145274502.6126",
+        "pvp.totalHealingDone": "180344388.28979",
+        "pvp.totalKill": "20125",
+        "pvp.totalVpDmgDone": "34684.444618553",
+        "coop.gameWin": "1262",
+        "coop.gamePlayed": "1272",
+        "coop.totalBattleTime": "325382495",
+        "openWorld.karma": "296572",
+        "clan.name": "Last Man Standing",
+        "clan.tag": "FAITH",
+        "clan.cid": "2848",
+        "clan.pvpRating": "16033",
+        "clan.pveRating": "326991"
+      }
     }
   }
 }

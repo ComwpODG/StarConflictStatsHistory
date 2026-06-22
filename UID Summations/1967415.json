@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "2214",
         "clan.pveRating": "983278"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:43.6115989Z",
+      "Flat": {
+        "effRating": "6046.9790039062",
+        "nickName": "IOpuu",
+        "prestigeBonus": "1.6",
+        "uid": "1967415",
+        "accountRank": "21",
+        "pve.gamePlayed": "4375",
+        "pve.unlimPve_playerAttackLevel": "94",
+        "pve.unlimPve_playerDefenceLevel": "85",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "44",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "45",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "57",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "40",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "44",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "58",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "128",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "49",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "41",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "43",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "36",
+        "pve.unlimPve_missionLevels.piratebay_hard": "47",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "22",
+        "pve.unlimPve_missionLevels.magnificent_seven": "14",
+        "pve.unlimPve_missionLevels.stealth": "11",
+        "pve.wavePve_maxWave": "61",
+        "pvp.gamePlayed": "932",
+        "pvp.gameWin": "473",
+        "pvp.totalAssists": "7872",
+        "pvp.totalBattleTime": "495641999",
+        "pvp.totalDeath": "2155",
+        "pvp.totalDmgDone": "184401702.60107",
+        "pvp.totalHealingDone": "19675183.427994",
+        "pvp.totalKill": "4059",
+        "pvp.totalVpDmgDone": "2504.7335168719",
+        "coop.gameWin": "1078",
+        "coop.gamePlayed": "1085",
+        "coop.totalBattleTime": "292778035",
+        "openWorld.karma": "197266",
+        "clan.name": "BornForKilling",
+        "clan.tag": "BFK",
+        "clan.cid": "6093",
+        "clan.pvpRating": "3082",
+        "clan.pveRating": "880010"
+      }
     }
   }
 }

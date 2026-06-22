@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "2608",
         "clan.pveRating": "242989"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:14.9942785Z",
+      "Flat": {
+        "effRating": "7557.5263671875",
+        "nickName": "RCFACF",
+        "prestigeBonus": "2.17",
+        "uid": "1399495",
+        "accountRank": "18",
+        "pve.gamePlayed": "6336",
+        "pve.unlimPve_playerAttackLevel": "41",
+        "pve.unlimPve_playerDefenceLevel": "41",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "23",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "26",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "22",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "28",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "21",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "23",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "31",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "24",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "24",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "33",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "19",
+        "pve.unlimPve_missionLevels.piratebay_hard": "7",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "2",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.wavePve_maxWave": "11",
+        "pvp.gamePlayed": "3326",
+        "pvp.gameWin": "1462",
+        "pvp.totalAssists": "24112",
+        "pvp.totalBattleTime": "1612176354",
+        "pvp.totalDeath": "10205",
+        "pvp.totalDmgDone": "731091754.76672",
+        "pvp.totalHealingDone": "94042805.7258",
+        "pvp.totalKill": "7893",
+        "pvp.totalVpDmgDone": "6087.4918568134",
+        "coop.gameWin": "562",
+        "coop.gamePlayed": "570",
+        "coop.totalBattleTime": "204590375",
+        "openWorld.karma": "339572",
+        "clan.name": "Wolf Squad",
+        "clan.tag": "Wolfe",
+        "clan.cid": "3728",
+        "clan.pvpRating": "2925",
+        "clan.pveRating": "220069"
+      }
     }
   }
 }

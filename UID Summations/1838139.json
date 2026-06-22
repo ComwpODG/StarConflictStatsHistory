@@ -1179,6 +1179,53 @@
         "clan.pvpRating": "4686",
         "clan.pveRating": "12752"
       }
+    },
+    "2026-06-22": {
+      "TakenAtUtc": "2026-06-22T23:01:51.9096061Z",
+      "Flat": {
+        "effRating": "4203.3803710938",
+        "nickName": "apolocreed",
+        "prestigeBonus": "2.28",
+        "uid": "1838139",
+        "accountRank": "21",
+        "pve.gamePlayed": "1852",
+        "pve.unlimPve_playerAttackLevel": "44",
+        "pve.unlimPve_playerDefenceLevel": "38",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "27",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "36",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "26",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "24",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "25",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "27",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "39",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "21",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "24",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "16",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "30",
+        "pve.unlimPve_missionLevels.piratebay_hard": "15",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "32",
+        "pve.unlimPve_missionLevels.magnificent_seven": "5",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pve.wavePve_maxWave": "17",
+        "pvp.gamePlayed": "12799",
+        "pvp.gameWin": "6141",
+        "pvp.totalAssists": "74910",
+        "pvp.totalBattleTime": "6343793050",
+        "pvp.totalDeath": "23315",
+        "pvp.totalDmgDone": "1269516142.6205",
+        "pvp.totalHealingDone": "498776428.43369",
+        "pvp.totalKill": "39925",
+        "pvp.totalVpDmgDone": "128183.50561454",
+        "coop.gameWin": "1617",
+        "coop.gamePlayed": "1659",
+        "coop.totalBattleTime": "571721351",
+        "openWorld.karma": "4703919",
+        "clan.name": "Hermandad del Acero",
+        "clan.tag": "XRIPX",
+        "clan.cid": "4892",
+        "clan.pvpRating": "5949",
+        "clan.pveRating": "15085"
+      }
     }
   }
 }
