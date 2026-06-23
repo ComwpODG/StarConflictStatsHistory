@@ -214,7 +214,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return kill / (time/100);
+				return kill / (time/10000);
 			});
 		} else if (stat === "Assists/Min") {
 			values = labels.map(date => {
@@ -223,7 +223,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return assists / (time/100);
+				return assists / (time/10000);
 			});
 		} else if (stat === "Kills+Assists/Min") {
 			values = labels.map(date => {
@@ -233,7 +233,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return (kill+assists) / (time/100);
+				return (kill+assists) / (time/10000);
 			});
 		} else if (stat === "Damage/Min") {
 			values = labels.map(date => {
@@ -242,7 +242,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return damage / (time/100);
+				return damage / (time/10000);
 			});
 		} else if (stat === "Heal/Min") {
 			values = labels.map(date => {
@@ -251,7 +251,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return heal / (time/100);
+				return heal / (time/10000);
 			});
 		} else if (stat === "Death/Min") {
 			values = labels.map(date => {
@@ -260,7 +260,7 @@ async function generateGraph() {
 				if (time <= 0) {
 					return 0;
 				}
-				return death / (time/100);
+				return death / (time/10000);
 			});
 		
 		//Competitive
@@ -288,7 +288,7 @@ async function generateGraph() {
 		} else if (stat === "Win/Loss") {
 			values = labels.map(date => {
 				const win = winMap.get(date) ?? 0;
-				const played = playedMap.get(date) ?? 0;
+				const played = battleMap.get(date) ?? 0;
 				if (played <= 0) {
 					return 0;
 				}
