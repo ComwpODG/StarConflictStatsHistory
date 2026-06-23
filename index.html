@@ -30,66 +30,43 @@
         <hr>
 
         <select id="statSelect">
-            <option value="pvp.totalKill">
-                PvP Kills
-            </option>
-
-            <option value="pvp.totalAssists">
-                PvP Assists
-            </option>
-
-            <option value="pvp.totalDmgDone">
-                PvP Damage
-            </option>
-
-            <option value="pvp.gamePlayed">
-                PvP Games
-            </option>
-
-            <option value="pvp.gameWin">
-                PvP Wins
-            </option>
-
-            <option value="pvp.totalHealingDone">
-                PvP Healing
-            </option>
-
-            <option value="pvp.totalDeath">
-                PvP Deaths
-            </option>
-
-            <option value="Kills/Battle">
-                Kills / Battle
-            </option>
-
-            <option value="Damage/Battle">
-                Damage / Battle
-            </option>
-
-            <option value="Heal/Battle">
-                Heal / Battle
-            </option>
-
-            <option value="K/D">
-                K/D Ratio
-            </option>
-
-            <option value="K+A/D">
-                (K+A)/D Ratio
-            </option>
-
-            <option value="K/Min">
-                Kills/Minute
-            </option>
-
-            <option value="Win/Loss">
-                Win/Loss Ratio
-            </option>
-
-            <option value="prestigeBonus">
-                Fleet Strength
-            </option>
-        </select>
+            <option value="None">--------Total-Gameplay--------</option>
+            <option value="pvp.totalKill">Total PvP Kills</option>
+            <option value="pvp.totalAssists">Total PvP Assists</option>
+            <option value="pvp.totalDmgDone">Total PvP Damage</option>
+            <option value="pvp.gamePlayed">Total PvP Games</option>
+            <option value="pvp.gameWin">Total PvP Wins</option>
+            <option value="pvp.totalHealingDone">Total PvP Healing</option>
+            <option value="pvp.totalDeath">Total PvP Deaths</option>
+            <option value="pvp.totalBattleTime">Total PvP Time</option>
+            <option value="Win/Loss">Win/Loss Ratio</option>
+            <option value="None">--------Per-Battle-Averages--------</option>
+            <option value="Kills/Battle">Kills per Battle</option>
+            <option value="Assists/Battle">Assists per Battle</option>
+            <option value="Kills+Assists/Battle">Kills+Assists per Battle</option>
+            <option value="Damage/Battle">Damage per Battle</option>
+            <option value="Heal/Battle">Healing per Battle</option>
+            <option value="Death/Battle">Death per Battle</option>
+            <option value="Time/Battle">Time per Battle</option>
+            <option value="None">--------Minute-By-Minute--------</option>
+            <option value="Kills/Min">Kills per Min</option>
+            <option value="Assists/Min">Assists per Min</option>
+            <option value="Kills+Assists/Min">Kills+Assists per Min</option>
+            <option value="Damage/Min">Damage per Min</option>
+            <option value="Heal/Min">Healing per Min</option>
+            <option value="Death/Min">Deaths per Min</option>
+            <option value="None">--------Misc-Stuff--------</option>
+            <option value="effRating">Eff. Rating</option>
+            <option value="accountRank">Clearance Level</option>
+            <option value="prestigeBonus">Fleet Strength</option>
+            <option value="None">--------Bot-Slaughter--------</option>
+            <option value="coop.gamePlayed">Total Co-Op Games</option>
+            <option value="coop.gameWin">Total Co-Op Wins</option>
+            <option value="coop.totalBattleTime">Total Co-Op Time</option>
+            <option value="None">--------PvE--------</option>
+            <option value="pve.gamePlayed">Total PvE Games</option>
+            <option value="pve.unlimPve_playerAttackLevel">PvE ATK LV</option>
+            <option value="pve.unlimPve_playerDefenceLevel">PvE DEF LV</option>
 
         <button id="generateBtn">
             Generate Graph
