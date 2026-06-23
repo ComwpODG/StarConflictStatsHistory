@@ -166,6 +166,34 @@ async function generateGraph() {
 					return 0;
 				return heal / battles;
 			});
+		} else if (stat === "AverageDPS") {
+			const dmgMap =
+				buildDeltaMap(history, "pvp.totalDmgDone");
+			const timeMap =
+				buildDeltaMap(history, "pvp.totalBattleTime");
+			values = labels.map(date => {
+				const dmg =
+					dmgMap.get(date) ?? 0;
+				const time =
+					timeMap.get(date) ?? 0;
+				if (time <= 0)
+					return 0;
+				return dmg / ((time*60)/100);
+			});
+		} else if (stat === "D/Min") {
+			const deathMap =
+				buildDeltaMap(history, "pvp.totalDeath");
+			const timeMap =
+				buildDeltaMap(history, "pvp.totalBattleTime");
+			values = labels.map(date => {
+				const death =
+					deathMap.get(date) ?? 0;
+				const time =
+					timeMap.get(date) ?? 0;
+				if (time <= 0)
+					return 0;
+				return death / (time/100);
+			});
 		} else if (stat === "K/D") {
 			const killMap =
 				buildDeltaMap(history, "pvp.totalKill");
@@ -210,7 +238,39 @@ async function generateGraph() {
 					timeMap.get(date) ?? 0;
 				if (time <= 0)
 					return 0;
-				return kill / (time/1000);
+				return kill / (time/100);
+			});
+		} else if (stat === "K+A/Min") {
+			const killMap =
+				buildDeltaMap(history, "pvp.totalKill");
+			const assistMap =
+				buildDeltaMap(history, "pvp.totalAssists");
+			const timeMap =
+				buildDeltaMap(history, "pvp.totalBattleTime");
+			values = labels.map(date => {
+				const kill =
+					killMap.get(date) ?? 0;
+				const assist =
+					assistMap.get(date) ?? 0;
+				const time =
+					timeMap.get(date) ?? 0;
+				if (time <= 0)
+					return 0;
+				return (kill+assist) / (time/100);
+			});
+		} else if (stat === "H/Min") {
+			const healMap =
+				buildDeltaMap(history, "pvp.totalHealingDone");
+			const timeMap =
+				buildDeltaMap(history, "pvp.totalBattleTime");
+			values = labels.map(date => {
+				const heal =
+					healMap.get(date) ?? 0;
+				const time =
+					timeMap.get(date) ?? 0;
+				if (time <= 0)
+					return 0;
+				return heal / (time/100);
 			});
 		} else if (stat === "Win/Loss") {
 			const winMap =
