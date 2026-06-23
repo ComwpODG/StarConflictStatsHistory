@@ -123,169 +123,178 @@ async function generateGraph() {
         // Build delta map: date -> delta since previous snapshot
         let values;
 
+		const killMap =
+			buildDeltaMap(history, "pvp.totalKill");
+		const assistMap =
+			buildDeltaMap(history, "pvp.totalAssists");
+		const battleMap =
+			buildDeltaMap(history, "pvp.gamePlayed");
+		const dmgMap =
+			buildDeltaMap(history, "pvp.totalDmgDone");
+		const healMap =
+			buildDeltaMap(history, "pvp.totalHealingDone");
+		const timeMap =
+			buildDeltaMap(history, "pvp.totalBattleTime");
+		const deathMap =
+			buildDeltaMap(history, "pvp.totalDeath");
+		const winMap =
+			buildDeltaMap(history, "pvp.gameWin");
+
+		//Per Battle Averages
 		if (stat === "Kills/Battle") {
-			const killMap =
-				buildDeltaMap(history, "pvp.totalKill");
-			const battleMap =
-				buildDeltaMap(history, "pvp.gamePlayed");
 			values = labels.map(date => {
-				const kills =
-					killMap.get(date) ?? 0;
-				const battles =
-					battleMap.get(date) ?? 0;
+				const kills = killMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
 				if (battles <= 0) {
 					return 0;
 				}
 				return kills / battles;
 			});
-		} else if (stat === "Damage/Battle") {
-			const dmgMap =
-				buildDeltaMap(history, "pvp.totalDmgDone");
-			const battleMap =
-				buildDeltaMap(history, "pvp.gamePlayed");
+		} else if (stat === "Assists/Battle") {
 			values = labels.map(date => {
-				const dmg =
-					dmgMap.get(date) ?? 0;
-				const battles =
-					battleMap.get(date) ?? 0;
-				if (battles <= 0)
+				const assists = assistMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
 					return 0;
+				}
+				return assists / battles;
+			});
+		} else if (stat === "Kills+Assists/Battle") {
+			values = labels.map(date => {
+				const kills = killMap.get(date) ?? 0;
+				const assists = assistMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
+					return 0;
+				}
+				return (kills+assists) / battles;
+			});
+		} else if (stat === "Damage/Battle") {
+			values = labels.map(date => {
+				const dmg = dmgMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
+					return 0;
+				}
 				return dmg / battles;
 			});
 		} else if (stat === "Heal/Battle") {
-			const healMap =
-				buildDeltaMap(history, "pvp.totalHealingDone");
-			const battleMap =
-				buildDeltaMap(history, "pvp.gamePlayed");
 			values = labels.map(date => {
-				const heal =
-					healMap.get(date) ?? 0;
-				const battles =
-					battleMap.get(date) ?? 0;
-				if (battles <= 0)
+				const heal = healMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
 					return 0;
+				}
 				return heal / battles;
 			});
-		} else if (stat === "AverageDPS") {
-			const dmgMap =
-				buildDeltaMap(history, "pvp.totalDmgDone");
-			const timeMap =
-				buildDeltaMap(history, "pvp.totalBattleTime");
+		} else if (stat === "Death/Battle") {
 			values = labels.map(date => {
-				const dmg =
-					dmgMap.get(date) ?? 0;
-				const time =
-					timeMap.get(date) ?? 0;
-				if (time <= 0)
+				const death = deathMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
 					return 0;
-				return dmg / ((time*60)/100);
+				}
+				return death / battles;
 			});
-		} else if (stat === "D/Min") {
-			const deathMap =
-				buildDeltaMap(history, "pvp.totalDeath");
-			const timeMap =
-				buildDeltaMap(history, "pvp.totalBattleTime");
+		} else if (stat === "Time/Battle") {
 			values = labels.map(date => {
-				const death =
-					deathMap.get(date) ?? 0;
-				const time =
-					timeMap.get(date) ?? 0;
-				if (time <= 0)
+				const time = timeMap.get(date) ?? 0;
+				const battles = battleMap.get(date) ?? 0;
+				if (battles <= 0) {
 					return 0;
+				}
+				return time / battles;
+			});
+			
+		//Minute-by-Minute
+		} else if (stat === "Kills/Min") {
+			values = labels.map(date => {
+				const kill = killMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
+				return kill / (time/100);
+			});
+		} else if (stat === "Assists/Min") {
+			values = labels.map(date => {
+				const assists = assistMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
+				return assists / (time/100);
+			});
+		} else if (stat === "Kills+Assists/Min") {
+			values = labels.map(date => {
+				const kill = killMap.get(date) ?? 0;
+				const assists = assistMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
+				return (kill+assists) / (time/100);
+			});
+		} else if (stat === "Damage/Min") {
+			values = labels.map(date => {
+				const damage = dmgMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
+				return damage / (time/100);
+			});
+		} else if (stat === "Heal/Min") {
+			values = labels.map(date => {
+				const heal = healMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
+				return heal / (time/100);
+			});
+		} else if (stat === "Death/Min") {
+			values = labels.map(date => {
+				const death = deathMap.get(date) ?? 0;
+				const time = timeMap.get(date) ?? 0;
+				if (time <= 0) {
+					return 0;
+				}
 				return death / (time/100);
 			});
+		
+		//Competitive
 		} else if (stat === "K/D") {
-			const killMap =
-				buildDeltaMap(history, "pvp.totalKill");
-			const deathMap =
-				buildDeltaMap(history, "pvp.totalDeath");
 			values = labels.map(date => {
-				const kill =
-					killMap.get(date) ?? 0;
-				const death =
-					deathMap.get(date) ?? 0;
-				if (death <= 0)
+				const kill = killMap.get(date) ?? 0;
+				const death = deathMap.get(date) ?? 0;
+				if (death <= 0) {
 					return kill;
+				}
 				return kill / death;
 			});
 		} else if (stat === "K+A/D") {
-			const killMap =
-				buildDeltaMap(history, "pvp.totalKill");
-			const assistMap =
-				buildDeltaMap(history, "pvp.totalAssists");
-			const deathMap =
-				buildDeltaMap(history, "pvp.totalDeath");
 			values = labels.map(date => {
-				const kill =
-					killMap.get(date) ?? 0;
-				const assist =
-					assistMap.get(date) ?? 0;
-				const death =
-					deathMap.get(date) ?? 0;
-				if (death <= 0)
+				const kill = killMap.get(date) ?? 0;
+				const assist = assistMap.get(date) ?? 0;
+				const death = deathMap.get(date) ?? 0;
+				if (death <= 0) {
 					return (kill+assist);
+				}
 				return (kill+assist) / death;
 			});
-		} else if (stat === "K/Min") {
-			const killMap =
-				buildDeltaMap(history, "pvp.totalKill");
-			const timeMap =
-				buildDeltaMap(history, "pvp.totalBattleTime");
-			values = labels.map(date => {
-				const kill =
-					killMap.get(date) ?? 0;
-				const time =
-					timeMap.get(date) ?? 0;
-				if (time <= 0)
-					return 0;
-				return kill / (time/100);
-			});
-		} else if (stat === "K+A/Min") {
-			const killMap =
-				buildDeltaMap(history, "pvp.totalKill");
-			const assistMap =
-				buildDeltaMap(history, "pvp.totalAssists");
-			const timeMap =
-				buildDeltaMap(history, "pvp.totalBattleTime");
-			values = labels.map(date => {
-				const kill =
-					killMap.get(date) ?? 0;
-				const assist =
-					assistMap.get(date) ?? 0;
-				const time =
-					timeMap.get(date) ?? 0;
-				if (time <= 0)
-					return 0;
-				return (kill+assist) / (time/100);
-			});
-		} else if (stat === "H/Min") {
-			const healMap =
-				buildDeltaMap(history, "pvp.totalHealingDone");
-			const timeMap =
-				buildDeltaMap(history, "pvp.totalBattleTime");
-			values = labels.map(date => {
-				const heal =
-					healMap.get(date) ?? 0;
-				const time =
-					timeMap.get(date) ?? 0;
-				if (time <= 0)
-					return 0;
-				return heal / (time/100);
-			});
+		
+		// Random Other Calculated
 		} else if (stat === "Win/Loss") {
-			const winMap =
-				buildDeltaMap(history, "pvp.gameWin");
-			const playedMap =
-				buildDeltaMap(history, "pvp.gamePlayed");
 			values = labels.map(date => {
-				const win =
-					winMap.get(date) ?? 0;
-				const played =
-					playedMap.get(date) ?? 0;
-				if (played <= 0)
+				const win = winMap.get(date) ?? 0;
+				const played = playedMap.get(date) ?? 0;
+				if (played <= 0) {
 					return 0;
-				if (played == win)
+				}
+				if (played == win) {
 					return played;
+				}
 				return win / (played-win);
 			});
 		} else {
