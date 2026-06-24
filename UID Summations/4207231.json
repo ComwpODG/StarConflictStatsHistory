@@ -1122,6 +1122,49 @@
         "clan.pvpRating": "634",
         "clan.pveRating": "67878"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:03.1757964Z",
+      "Flat": {
+        "nickName": "ScarletHumper",
+        "uid": "4207231",
+        "accountRank": "17",
+        "prestigeBonus": "0.6",
+        "effRating": "5424.9580078125",
+        "pvp.totalKill": "2157",
+        "pvp.totalDeath": "4417",
+        "pvp.totalAssists": "7446",
+        "pvp.gamePlayed": "1510",
+        "pvp.totalDmgDone": "38454403.190154",
+        "pvp.totalVpDmgDone": "23690.434779152",
+        "pvp.totalHealingDone": "43593466.371948",
+        "pvp.totalBattleTime": "774068439",
+        "pvp.gameWin": "432",
+        "pve.gamePlayed": "72",
+        "pve.unlimPve_playerAttackLevel": "7",
+        "pve.unlimPve_playerDefenceLevel": "24",
+        "pve.unlimPve_missionLevels.piratebay_hard": "20",
+        "pve.unlimPve_missionLevels.magnificent_seven": "4",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "5",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "6",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "2",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "5",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "6",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "3",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "3",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "2",
+        "pve.wavePve_maxWave": "57",
+        "coop.gameWin": "311",
+        "coop.gamePlayed": "319",
+        "coop.totalBattleTime": "144774435",
+        "openWorld.karma": "9627",
+        "clan.name": "OwO WING",
+        "clan.tag": "0w0",
+        "clan.cid": "5701",
+        "clan.pvpRating": "379",
+        "clan.pveRating": "68674"
+      }
     }
   }
 }

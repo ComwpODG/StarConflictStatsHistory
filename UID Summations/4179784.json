@@ -1044,6 +1044,46 @@
         "clan.pvpRating": "634",
         "clan.pveRating": "67878"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:40.9413323Z",
+      "Flat": {
+        "nickName": "PichoFennec",
+        "uid": "4179784",
+        "accountRank": "15",
+        "prestigeBonus": "0.26",
+        "effRating": "6804.724609375",
+        "pve.gamePlayed": "49",
+        "pve.unlimPve_playerDefenceLevel": "10",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "9",
+        "pve.unlimPve_missionLevels.piratebay_hard": "14",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "2",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "2",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.wavePve_maxWave": "56",
+        "pvp.totalKill": "604",
+        "pvp.totalDeath": "971",
+        "pvp.totalAssists": "1003",
+        "pvp.gamePlayed": "257",
+        "pvp.totalDmgDone": "12795367.714111",
+        "pvp.totalVpDmgDone": "2228.4769032374",
+        "pvp.totalHealingDone": "2771074.0227661",
+        "pvp.totalBattleTime": "138600602",
+        "pvp.gameWin": "56",
+        "coop.gameWin": "131",
+        "coop.gamePlayed": "132",
+        "coop.totalBattleTime": "52089079",
+        "openWorld.karma": "779",
+        "clan.name": "OwO WING",
+        "clan.tag": "0w0",
+        "clan.cid": "5701",
+        "clan.pvpRating": "379",
+        "clan.pveRating": "68674"
+      }
     }
   }
 }

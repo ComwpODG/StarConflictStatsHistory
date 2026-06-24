@@ -897,6 +897,53 @@
         "clan.pvpRating": "17487",
         "clan.pveRating": "488513"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:02:15.6423412Z",
+      "Flat": {
+        "nickName": "0nyx",
+        "uid": "3971849",
+        "accountRank": "25",
+        "prestigeBonus": "3.07",
+        "effRating": "7386.2294921875",
+        "pvp.totalKill": "25815",
+        "pvp.totalDeath": "21145",
+        "pvp.totalAssists": "62191",
+        "pvp.gamePlayed": "12140",
+        "pvp.gameWin": "6120",
+        "pvp.totalDmgDone": "1002567078.8035",
+        "pvp.totalVpDmgDone": "214224.95615763",
+        "pvp.totalHealingDone": "485973914.90366",
+        "pvp.totalBattleTime": "6231140242",
+        "pve.gamePlayed": "15165",
+        "pve.unlimPve_playerAttackLevel": "258",
+        "pve.unlimPve_playerDefenceLevel": "240",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "106",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "87",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "92",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "122",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "101",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "99",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "106",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "109",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "94",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "63",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "77",
+        "pve.unlimPve_missionLevels.piratebay_hard": "70",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "85",
+        "pve.unlimPve_missionLevels.magnificent_seven": "81",
+        "pve.unlimPve_missionLevels.stealth": "70",
+        "pve.wavePve_maxWave": "61",
+        "coop.gameWin": "7266",
+        "coop.gamePlayed": "7297",
+        "coop.totalBattleTime": "1869321453",
+        "openWorld.karma": "1451216",
+        "clan.name": "ARES Sentinels",
+        "clan.tag": "ARES",
+        "clan.cid": "5970",
+        "clan.pvpRating": "17770",
+        "clan.pveRating": "435214"
+      }
     }
   }
 }

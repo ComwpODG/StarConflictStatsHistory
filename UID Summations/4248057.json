@@ -1122,6 +1122,49 @@
         "clan.pvpRating": "7702",
         "clan.pveRating": "105060"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:38.5775742Z",
+      "Flat": {
+        "nickName": "MechnismConflict",
+        "uid": "4248057",
+        "accountRank": "16",
+        "prestigeBonus": "0.97",
+        "effRating": "9764.771484375",
+        "pve.gamePlayed": "149",
+        "pve.unlimPve_playerAttackLevel": "19",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "10",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "38",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "3",
+        "pve.unlimPve_missionLevels.piratebay_hard": "2",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "11",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "2",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "4",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "10",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "14",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "8",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "8",
+        "pve.unlimPve_missionLevels.magnificent_seven": "5",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "5",
+        "pvp.totalKill": "18264",
+        "pvp.totalDeath": "6153",
+        "pvp.totalAssists": "15490",
+        "pvp.gamePlayed": "2210",
+        "pvp.totalDmgDone": "492052945.37012",
+        "pvp.totalVpDmgDone": "30804.397711635",
+        "pvp.totalHealingDone": "48812211.805298",
+        "pvp.totalBattleTime": "1226238767",
+        "pvp.gameWin": "1352",
+        "coop.gameWin": "1012",
+        "coop.gamePlayed": "1021",
+        "coop.totalBattleTime": "271805940",
+        "openWorld.karma": "14531",
+        "clan.name": "Hard Steel",
+        "clan.tag": "HARD",
+        "clan.cid": "6114",
+        "clan.pvpRating": "8057",
+        "clan.pveRating": "97528"
+      }
     }
   }
 }

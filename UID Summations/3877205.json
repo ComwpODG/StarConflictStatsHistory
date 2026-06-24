@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "17501",
         "clan.pveRating": "415884"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:05.8083664Z",
+      "Flat": {
+        "nickName": "BadToad",
+        "uid": "3877205",
+        "prestigeBonus": "2.98",
+        "accountRank": "25",
+        "effRating": "8399.732421875",
+        "pve.gamePlayed": "6701",
+        "pve.unlimPve_playerAttackLevel": "297",
+        "pve.unlimPve_playerDefenceLevel": "213",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "80",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "71",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "68",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "132",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "69",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "73",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "78",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "61",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "70",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "81",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "47",
+        "pve.unlimPve_missionLevels.piratebay_hard": "62",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "46",
+        "pve.unlimPve_missionLevels.magnificent_seven": "41",
+        "pve.unlimPve_missionLevels.stealth": "5",
+        "pve.wavePve_maxWave": "72",
+        "pvp.totalKill": "16073",
+        "pvp.totalDeath": "20313",
+        "pvp.totalAssists": "36040",
+        "pvp.gamePlayed": "8003",
+        "pvp.totalDmgDone": "406769772.44412",
+        "pvp.totalVpDmgDone": "266075.70596642",
+        "pvp.totalHealingDone": "144420142.28229",
+        "pvp.totalBattleTime": "4301015474",
+        "pvp.gameWin": "3332",
+        "coop.gamePlayed": "3252",
+        "coop.totalBattleTime": "929213129",
+        "coop.gameWin": "3243",
+        "openWorld.karma": "1425143",
+        "clan.name": "FlimmisNest",
+        "clan.tag": "Flimm",
+        "clan.cid": "4955",
+        "clan.pvpRating": "16780",
+        "clan.pveRating": "458848"
+      }
     }
   }
 }

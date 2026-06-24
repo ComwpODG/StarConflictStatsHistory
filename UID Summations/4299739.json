@@ -133,6 +133,49 @@
         "clan.pvpRating": "35598",
         "clan.pveRating": "720672"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:03:05.0241515Z",
+      "Flat": {
+        "nickName": "ResniK1",
+        "uid": "4299739",
+        "accountRank": "17",
+        "prestigeBonus": "0.69",
+        "effRating": "7321.8891601562",
+        "pve.gamePlayed": "230",
+        "pve.unlimPve_playerAttackLevel": "23",
+        "pve.unlimPve_playerDefenceLevel": "22",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "21",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "21",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "20",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "15",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "21",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "20",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "15",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "13",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "21",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "15",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "10",
+        "pve.wavePve_maxWave": "11",
+        "pvp.totalKill": "1450",
+        "pvp.totalDeath": "1158",
+        "pvp.totalAssists": "2763",
+        "pvp.gamePlayed": "391",
+        "pvp.gameWin": "177",
+        "pvp.totalDmgDone": "37643073.839722",
+        "pvp.totalVpDmgDone": "2945.8332558423",
+        "pvp.totalHealingDone": "27909246.616455",
+        "pvp.totalBattleTime": "177193248",
+        "coop.gameWin": "186",
+        "coop.gamePlayed": "196",
+        "coop.totalBattleTime": "64039523",
+        "openWorld.karma": "105341",
+        "clan.name": "HassassiN",
+        "clan.tag": "",
+        "clan.cid": "1299",
+        "clan.pvpRating": "39860",
+        "clan.pveRating": "774315"
+      }
     }
   }
 }
