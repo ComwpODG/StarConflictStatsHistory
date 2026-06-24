@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "6856",
         "clan.pveRating": "67850"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:38.8144563Z",
+      "Flat": {
+        "nickName": "ROY",
+        "uid": "3790317",
+        "accountRank": "23",
+        "prestigeBonus": "1.84",
+        "effRating": "6883.7290039062",
+        "pve.gamePlayed": "7203",
+        "pve.unlimPve_playerAttackLevel": "185",
+        "pve.unlimPve_playerDefenceLevel": "86",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "82",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "73",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "89",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "105",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "75",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "80",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "92",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "75",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "62",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "82",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "47",
+        "pve.unlimPve_missionLevels.piratebay_hard": "64",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "69",
+        "pve.unlimPve_missionLevels.magnificent_seven": "71",
+        "pve.unlimPve_missionLevels.stealth": "23",
+        "pve.wavePve_maxWave": "46",
+        "pvp.totalKill": "19963",
+        "pvp.totalDeath": "12993",
+        "pvp.totalAssists": "43810",
+        "pvp.gamePlayed": "5225",
+        "pvp.gameWin": "3304",
+        "pvp.totalDmgDone": "635508550.96263",
+        "pvp.totalVpDmgDone": "87587.87170621",
+        "pvp.totalHealingDone": "115603576.54115",
+        "pvp.totalBattleTime": "2729430873",
+        "coop.gameWin": "5912",
+        "coop.gamePlayed": "5926",
+        "coop.totalBattleTime": "1701628114",
+        "openWorld.karma": "652936",
+        "clan.name": "Drag knotters",
+        "clan.tag": "CRASH",
+        "clan.cid": "5291",
+        "clan.pvpRating": "7163",
+        "clan.pveRating": "65413"
+      }
     }
   }
 }

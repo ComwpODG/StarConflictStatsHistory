@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "75",
         "clan.pveRating": "12988"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:37.7793547Z",
+      "Flat": {
+        "nickName": "Di133",
+        "uid": "3578456",
+        "prestigeBonus": "2.17",
+        "accountRank": "21",
+        "effRating": "6182.7041015625",
+        "pve.gamePlayed": "5965",
+        "pve.unlimPve_playerAttackLevel": "142",
+        "pve.unlimPve_playerDefenceLevel": "64",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "69",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "102",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "55",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "55",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "50",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "58",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "82",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "41",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "45",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "61",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "38",
+        "pve.unlimPve_missionLevels.piratebay_hard": "53",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "14",
+        "pve.unlimPve_missionLevels.magnificent_seven": "9",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pve.wavePve_maxWave": "18",
+        "pvp.totalKill": "6519",
+        "pvp.totalDeath": "7990",
+        "pvp.totalAssists": "16527",
+        "pvp.gamePlayed": "2951",
+        "pvp.gameWin": "1673",
+        "pvp.totalDmgDone": "278470718.99316",
+        "pvp.totalVpDmgDone": "62761.642591313",
+        "pvp.totalHealingDone": "73346069.390442",
+        "pvp.totalBattleTime": "1579976020",
+        "coop.gameWin": "3376",
+        "coop.gamePlayed": "3401",
+        "coop.totalBattleTime": "947430691",
+        "openWorld.karma": "115470",
+        "clan.name": "Di 132",
+        "clan.tag": "Di132",
+        "clan.cid": "4885",
+        "clan.pvpRating": "51",
+        "clan.pveRating": "12640"
+      }
     }
   }
 }

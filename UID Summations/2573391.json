@@ -1200,6 +1200,52 @@
         "clan.pvpRating": "9558",
         "clan.pveRating": "236415"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:16.6000112Z",
+      "Flat": {
+        "effRating": "6966.28125",
+        "nickName": "Razor008",
+        "prestigeBonus": "1.78",
+        "uid": "2573391",
+        "accountRank": "22",
+        "pve.gamePlayed": "2094",
+        "pve.unlimPve_playerAttackLevel": "33",
+        "pve.unlimPve_playerDefenceLevel": "27",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "30",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "14",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "23",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "18",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "29",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "20",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "21",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "40",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "14",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "20",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "14",
+        "pve.unlimPve_missionLevels.piratebay_hard": "57",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "5",
+        "pve.unlimPve_missionLevels.magnificent_seven": "4",
+        "pve.wavePve_maxWave": "18",
+        "pvp.gamePlayed": "2540",
+        "pvp.gameWin": "1135",
+        "pvp.totalAssists": "16373",
+        "pvp.totalBattleTime": "1197202858",
+        "pvp.totalDeath": "9075",
+        "pvp.totalDmgDone": "241558950.20522",
+        "pvp.totalHealingDone": "79802226.736832",
+        "pvp.totalKill": "6405",
+        "pvp.totalVpDmgDone": "18202.900112949",
+        "coop.gameWin": "2406",
+        "coop.gamePlayed": "2448",
+        "coop.totalBattleTime": "633730183",
+        "openWorld.karma": "-73218",
+        "clan.name": "Too Much Iridium",
+        "clan.tag": "10k",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11173",
+        "clan.pveRating": "339451"
+      }
     }
   }
 }

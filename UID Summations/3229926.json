@@ -1200,6 +1200,52 @@
         "clan.pvpRating": "8617",
         "clan.pveRating": "323695"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:55.0084327Z",
+      "Flat": {
+        "nickName": "QuantenMurks",
+        "uid": "3229926",
+        "prestigeBonus": "1.63",
+        "effRating": "6855.5083007812",
+        "accountRank": "17",
+        "pve.gamePlayed": "1292",
+        "pve.unlimPve_playerAttackLevel": "52",
+        "pve.unlimPve_playerDefenceLevel": "52",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "40",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "33",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "37",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "10",
+        "pve.unlimPve_missionLevels.magnificent_seven": "19",
+        "pve.unlimPve_missionLevels.piratebay_hard": "21",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "43",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "31",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "45",
+        "pve.unlimPve_missionLevels.stealth": "9",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "23",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "38",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "33",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "37",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "33",
+        "pvp.totalKill": "20672",
+        "pvp.totalDeath": "28706",
+        "pvp.totalAssists": "68644",
+        "pvp.gamePlayed": "9162",
+        "pvp.totalDmgDone": "727978450.83673",
+        "pvp.totalVpDmgDone": "35291.749433398",
+        "pvp.totalHealingDone": "262892998.18752",
+        "pvp.totalBattleTime": "4531266004",
+        "pvp.gameWin": "4600",
+        "coop.gameWin": "1050",
+        "coop.gamePlayed": "1064",
+        "coop.totalBattleTime": "286015829",
+        "openWorld.karma": "137403",
+        "clan.name": "Die Chaoten",
+        "clan.tag": "xchx",
+        "clan.cid": "4901",
+        "clan.pvpRating": "8588",
+        "clan.pveRating": "364465"
+      }
     }
   }
 }

@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "3082",
         "clan.pveRating": "880010"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:13.1374474Z",
+      "Flat": {
+        "effRating": "6930.62890625",
+        "nickName": "Raskolnikoff",
+        "prestigeBonus": "3.11",
+        "uid": "2127955",
+        "accountRank": "25",
+        "pve.gamePlayed": "54589",
+        "pve.unlimPve_playerAttackLevel": "3238",
+        "pve.unlimPve_playerDefenceLevel": "315",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "419",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "353",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "542",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "369",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "197",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "387",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "216",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "542",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "413",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "352",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "545",
+        "pve.unlimPve_missionLevels.piratebay_hard": "282",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "380",
+        "pve.unlimPve_missionLevels.magnificent_seven": "320",
+        "pve.unlimPve_missionLevels.stealth": "146",
+        "pve.wavePve_maxWave": "144",
+        "pvp.gamePlayed": "5364",
+        "pvp.gameWin": "2430",
+        "pvp.totalAssists": "35734",
+        "pvp.totalBattleTime": "2548353062",
+        "pvp.totalDeath": "17581",
+        "pvp.totalDmgDone": "869927478.14004",
+        "pvp.totalHealingDone": "131864780.17769",
+        "pvp.totalKill": "11892",
+        "pvp.totalVpDmgDone": "36646.923531301",
+        "coop.gameWin": "4418",
+        "coop.gamePlayed": "4446",
+        "coop.totalBattleTime": "1196458996",
+        "openWorld.karma": "1897302",
+        "clan.name": "BornForKilling",
+        "clan.tag": "BFK",
+        "clan.cid": "6093",
+        "clan.pvpRating": "3892",
+        "clan.pveRating": "989251"
+      }
     }
   }
 }

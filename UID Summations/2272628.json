@@ -1130,6 +1130,53 @@
         "clan.pvpRating": "1895",
         "clan.pveRating": "103403"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:48.1139321Z",
+      "Flat": {
+        "effRating": "6424.7490234375",
+        "nickName": "Hardist",
+        "prestigeBonus": "2.37",
+        "uid": "2272628",
+        "accountRank": "25",
+        "pve.gamePlayed": "32729",
+        "pve.unlimPve_playerAttackLevel": "215",
+        "pve.unlimPve_playerDefenceLevel": "201",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "130",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "65",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "179",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "66",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "65",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "65",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "63",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "64",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "61",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "65",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "76",
+        "pve.unlimPve_missionLevels.piratebay_hard": "68",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "5",
+        "pve.unlimPve_missionLevels.magnificent_seven": "34",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pve.wavePve_maxWave": "174",
+        "pvp.gamePlayed": "5883",
+        "pvp.gameWin": "2568",
+        "pvp.totalAssists": "35788",
+        "pvp.totalBattleTime": "2676287609",
+        "pvp.totalDeath": "15743",
+        "pvp.totalDmgDone": "610342983.14211",
+        "pvp.totalHealingDone": "59681453.404156",
+        "pvp.totalKill": "9106",
+        "pvp.totalVpDmgDone": "5388.7055571228",
+        "coop.gameWin": "3619",
+        "coop.gamePlayed": "3807",
+        "coop.totalBattleTime": "1123534056",
+        "openWorld.karma": "1276002",
+        "clan.name": "Forest Infinity",
+        "clan.tag": "FoI",
+        "clan.cid": "6301",
+        "clan.pvpRating": "1803",
+        "clan.pveRating": "115339"
+      }
     }
   }
 }

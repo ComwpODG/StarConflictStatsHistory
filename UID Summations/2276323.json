@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "35598",
         "clan.pveRating": "720672"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:20.9919327Z",
+      "Flat": {
+        "effRating": "8551.716796875",
+        "nickName": "Vellor",
+        "prestigeBonus": "3.09",
+        "uid": "2276323",
+        "accountRank": "25",
+        "pve.gamePlayed": "11554",
+        "pve.unlimPve_playerAttackLevel": "166",
+        "pve.unlimPve_playerDefenceLevel": "67",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "109",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "87",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "34",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "89",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "89",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "87",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "64",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "92",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "92",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "99",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "37",
+        "pve.unlimPve_missionLevels.piratebay_hard": "36",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "81",
+        "pve.unlimPve_missionLevels.magnificent_seven": "83",
+        "pve.unlimPve_missionLevels.stealth": "9",
+        "pve.wavePve_maxWave": "30",
+        "pvp.gamePlayed": "23542",
+        "pvp.gameWin": "10887",
+        "pvp.totalAssists": "179001",
+        "pvp.totalBattleTime": "12671586872",
+        "pvp.totalDeath": "55345",
+        "pvp.totalDmgDone": "2732338879.6257",
+        "pvp.totalHealingDone": "223089478.24016",
+        "pvp.totalKill": "52554",
+        "pvp.totalVpDmgDone": "57780.424675412",
+        "coop.gameWin": "3380",
+        "coop.gamePlayed": "3428",
+        "coop.totalBattleTime": "1007212845",
+        "openWorld.karma": "217746",
+        "clan.name": "HassassiN",
+        "clan.tag": "",
+        "clan.cid": "1299",
+        "clan.pvpRating": "39860",
+        "clan.pveRating": "774315"
+      }
     }
   }
 }

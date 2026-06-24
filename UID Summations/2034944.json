@@ -862,6 +862,39 @@
         "clan.pvpRating": "9558",
         "clan.pveRating": "236415"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:26.3635097Z",
+      "Flat": {
+        "nickName": "Comwp0DG",
+        "uid": "2034944",
+        "accountRank": "19",
+        "prestigeBonus": "3.01",
+        "effRating": "8046.3876953125",
+        "pve.gamePlayed": "10",
+        "pve.unlimPve_missionLevels.piratebay_hard": "2",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "2",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "5",
+        "pve.wavePve_maxWave": "58",
+        "pvp.totalKill": "632",
+        "pvp.totalDeath": "118",
+        "pvp.totalAssists": "587",
+        "pvp.gamePlayed": "81",
+        "pvp.gameWin": "55",
+        "pvp.totalDmgDone": "16622917.675781",
+        "pvp.totalVpDmgDone": "914.69434738159",
+        "pvp.totalHealingDone": "5802408.1501465",
+        "pvp.totalBattleTime": "44249250",
+        "coop.gameWin": "24",
+        "coop.gamePlayed": "24",
+        "coop.totalBattleTime": "7131058",
+        "openWorld.karma": "380",
+        "clan.name": "Too Much Iridium",
+        "clan.tag": "10k",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11173",
+        "clan.pveRating": "339451"
+      }
     }
   }
 }

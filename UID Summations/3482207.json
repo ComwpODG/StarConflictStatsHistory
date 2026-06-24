@@ -1200,6 +1200,52 @@
         "clan.pvpRating": "13147",
         "clan.pveRating": "177606"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:49.9347287Z",
+      "Flat": {
+        "nickName": "boshetunmaj",
+        "uid": "3482207",
+        "prestigeBonus": "2.93",
+        "accountRank": "25",
+        "effRating": "9187.177734375",
+        "pve.gamePlayed": "3646",
+        "pve.unlimPve_playerAttackLevel": "109",
+        "pve.unlimPve_playerDefenceLevel": "75",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "33",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "40",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "41",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "31",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "33",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "26",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "32",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "43",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "38",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "21",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "16",
+        "pve.unlimPve_missionLevels.piratebay_hard": "22",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "10",
+        "pve.unlimPve_missionLevels.magnificent_seven": "19",
+        "pve.unlimPve_missionLevels.stealth": "3",
+        "pvp.totalKill": "264383",
+        "pvp.totalDeath": "116582",
+        "pvp.totalAssists": "433114",
+        "pvp.gamePlayed": "46911",
+        "pvp.gameWin": "28406",
+        "pvp.totalDmgDone": "10808501528.028",
+        "pvp.totalVpDmgDone": "398094.46089112",
+        "pvp.totalHealingDone": "2977610609.3828",
+        "pvp.totalBattleTime": "26909467409",
+        "coop.gameWin": "1537",
+        "coop.gamePlayed": "1552",
+        "coop.totalBattleTime": "483517900",
+        "openWorld.karma": "233244",
+        "clan.name": "Real Black Mark",
+        "clan.tag": "RIM",
+        "clan.cid": "3839",
+        "clan.pvpRating": "14231",
+        "clan.pveRating": "168238"
+      }
     }
   }
 }
