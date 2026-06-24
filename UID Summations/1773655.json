@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "0",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:52.9313542Z",
+      "Flat": {
+        "effRating": "7553.3940429688",
+        "nickName": "Fritz3",
+        "prestigeBonus": "2.28",
+        "uid": "1773655",
+        "accountRank": "24",
+        "pve.gamePlayed": "10592",
+        "pve.unlimPve_playerAttackLevel": "44",
+        "pve.unlimPve_playerDefenceLevel": "37",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "37",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "28",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "31",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "25",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "28",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "34",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "19",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "23",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "22",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "21",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "32",
+        "pve.unlimPve_missionLevels.piratebay_hard": "16",
+        "pve.unlimPve_missionLevels.magnificent_seven": "4",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "5",
+        "pve.unlimPve_missionLevels.stealth": "5",
+        "pve.wavePve_maxWave": "22",
+        "pvp.gamePlayed": "15045",
+        "pvp.gameWin": "7327",
+        "pvp.totalAssists": "112768",
+        "pvp.totalBattleTime": "6856755143",
+        "pvp.totalDeath": "40914",
+        "pvp.totalDmgDone": "4029032761.6665",
+        "pvp.totalHealingDone": "507438367.30952",
+        "pvp.totalKill": "43786",
+        "pvp.totalVpDmgDone": "55948.448352322",
+        "coop.gameWin": "708",
+        "coop.gamePlayed": "723",
+        "coop.totalBattleTime": "244105385",
+        "openWorld.karma": "469639",
+        "clan.name": "Taiidan Raiders",
+        "clan.tag": "TRaid",
+        "clan.cid": "3357",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
     }
   }
 }

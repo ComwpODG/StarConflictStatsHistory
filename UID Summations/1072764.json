@@ -1174,6 +1174,51 @@
         "clan.pvpRating": "1845",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:39.5685079Z",
+      "Flat": {
+        "effRating": "9001.0078125",
+        "nickName": "BaDumTsss",
+        "prestigeBonus": "3.1",
+        "uid": "1072764",
+        "accountRank": "25",
+        "pve.gamePlayed": "2191",
+        "pve.unlimPve_playerAttackLevel": "10",
+        "pve.unlimPve_playerDefenceLevel": "8",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "9",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "6",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "4",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "3",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "6",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "4",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "4",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "4",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "3",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "4",
+        "pve.unlimPve_missionLevels.stealth": "2",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "2",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "4",
+        "pvp.gamePlayed": "21505",
+        "pvp.gameWin": "14421",
+        "pvp.totalAssists": "184735",
+        "pvp.totalBattleTime": "9500906137",
+        "pvp.totalDeath": "23138",
+        "pvp.totalDmgDone": "4227984318.3648",
+        "pvp.totalHealingDone": "983065543.7438",
+        "pvp.totalKill": "143600",
+        "pvp.totalVpDmgDone": "45665.412080109",
+        "coop.gameWin": "3259",
+        "coop.gamePlayed": "3277",
+        "coop.totalBattleTime": "877045173",
+        "openWorld.karma": "-565635",
+        "clan.name": "Wagner Group",
+        "clan.tag": "YoPTA",
+        "clan.cid": "4624",
+        "clan.pvpRating": "1781",
+        "clan.pveRating": "0"
+      }
     }
   }
 }

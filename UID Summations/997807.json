@@ -1226,6 +1226,53 @@
         "clan.pvpRating": "9558",
         "clan.pveRating": "236415"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:06.7827958Z",
+      "Flat": {
+        "effRating": "7920.6015625",
+        "nickName": "DerpNukem",
+        "prestigeBonus": "2.98",
+        "uid": "997807",
+        "accountRank": "25",
+        "pve.gamePlayed": "11468",
+        "pve.unlimPve_playerAttackLevel": "146",
+        "pve.unlimPve_playerDefenceLevel": "112",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "52",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "58",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "58",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "77",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "75",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "55",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "61",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "52",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "83",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "42",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "52",
+        "pve.unlimPve_missionLevels.piratebay_hard": "75",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "46",
+        "pve.unlimPve_missionLevels.magnificent_seven": "45",
+        "pve.unlimPve_missionLevels.stealth": "32",
+        "pve.wavePve_maxWave": "71",
+        "pvp.gamePlayed": "18491",
+        "pvp.gameWin": "11469",
+        "pvp.totalAssists": "152395",
+        "pvp.totalBattleTime": "9686595721",
+        "pvp.totalDeath": "26754",
+        "pvp.totalDmgDone": "3535605918.9978",
+        "pvp.totalHealingDone": "1245045633.044",
+        "pvp.totalKill": "90974",
+        "pvp.totalVpDmgDone": "152867.58997034",
+        "coop.gameWin": "4566",
+        "coop.gamePlayed": "4605",
+        "coop.totalBattleTime": "1277960859",
+        "openWorld.karma": "378609",
+        "clan.name": "Too Much Iridium",
+        "clan.tag": "10k",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11173",
+        "clan.pveRating": "339451"
+      }
     }
   }
 }

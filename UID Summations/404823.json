@@ -1174,6 +1174,51 @@
         "clan.pvpRating": "9558",
         "clan.pveRating": "236415"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:18.2174411Z",
+      "Flat": {
+        "effRating": "8299.7548828125",
+        "nickName": "DeadFireNL",
+        "prestigeBonus": "1.71",
+        "uid": "404823",
+        "accountRank": "20",
+        "pve.gamePlayed": "3820",
+        "pve.unlimPve_playerAttackLevel": "100",
+        "pve.unlimPve_playerDefenceLevel": "65",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "22",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "42",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "30",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "26",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "53",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "26",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "33",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "26",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "62",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "61",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "16",
+        "pve.unlimPve_missionLevels.piratebay_hard": "14",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pve.wavePve_maxWave": "23",
+        "pvp.gamePlayed": "2173",
+        "pvp.gameWin": "1112",
+        "pvp.totalAssists": "19272",
+        "pvp.totalBattleTime": "1044498441",
+        "pvp.totalDeath": "5341",
+        "pvp.totalDmgDone": "274770773.44562",
+        "pvp.totalHealingDone": "83255803.551785",
+        "pvp.totalKill": "6632",
+        "pvp.totalVpDmgDone": "3963.4393815547",
+        "coop.gameWin": "1087",
+        "coop.gamePlayed": "1093",
+        "coop.totalBattleTime": "308563462",
+        "openWorld.karma": "349556",
+        "clan.name": "Too Much Iridium",
+        "clan.tag": "10k",
+        "clan.cid": "1534",
+        "clan.pvpRating": "11173",
+        "clan.pveRating": "339451"
+      }
     }
   }
 }

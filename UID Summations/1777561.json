@@ -1148,6 +1148,50 @@
         "clan.pvpRating": "7752",
         "clan.pveRating": "36860"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:53.1263865Z",
+      "Flat": {
+        "effRating": "9018.0087890625",
+        "nickName": "Neoncreeper1",
+        "prestigeBonus": "2.06",
+        "uid": "1777561",
+        "accountRank": "24",
+        "pve.gamePlayed": "685",
+        "pve.unlimPve_playerAttackLevel": "36",
+        "pve.unlimPve_playerDefenceLevel": "15",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "11",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "10",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "7",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "25",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "7",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "21",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "6",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "9",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "8",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "15",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "6",
+        "pve.unlimPve_missionLevels.piratebay_hard": "4",
+        "pve.wavePve_maxWave": "3",
+        "pvp.gamePlayed": "11213",
+        "pvp.gameWin": "7719",
+        "pvp.totalAssists": "108276",
+        "pvp.totalBattleTime": "5679640764",
+        "pvp.totalDeath": "10267",
+        "pvp.totalDmgDone": "1619239740.9589",
+        "pvp.totalHealingDone": "790178626.74722",
+        "pvp.totalKill": "62309",
+        "pvp.totalVpDmgDone": "106569.62956341",
+        "coop.gameWin": "158",
+        "coop.gamePlayed": "161",
+        "coop.totalBattleTime": "47716048",
+        "openWorld.karma": "-65282",
+        "clan.name": "TerraLuX",
+        "clan.tag": "LuX",
+        "clan.cid": "1867",
+        "clan.pvpRating": "7152",
+        "clan.pveRating": "32043"
+      }
     }
   }
 }

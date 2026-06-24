@@ -836,6 +836,38 @@
         "clan.pvpRating": "3384",
         "clan.pveRating": "5687"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:00:51.5295505Z",
+      "Flat": {
+        "effRating": "9172.28125",
+        "nickName": "Lucifer969",
+        "prestigeBonus": "0.83",
+        "uid": "1239587",
+        "accountRank": "17",
+        "pve.gamePlayed": "36",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "2",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "3",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "3",
+        "pve.unlimPve_missionLevels.magnificent_seven": "2",
+        "pvp.gamePlayed": "8945",
+        "pvp.gameWin": "4654",
+        "pvp.totalAssists": "83915",
+        "pvp.totalBattleTime": "4894482646",
+        "pvp.totalDeath": "17710",
+        "pvp.totalDmgDone": "2465833992.3864",
+        "pvp.totalHealingDone": "284956781.25607",
+        "pvp.totalKill": "45233",
+        "pvp.totalVpDmgDone": "52190.49062711",
+        "coop.gameWin": "19",
+        "coop.gamePlayed": "19",
+        "coop.totalBattleTime": "6963374",
+        "clan.name": "Rasta DJA Mania",
+        "clan.tag": "ZBS",
+        "clan.cid": "4846",
+        "clan.pvpRating": "2707",
+        "clan.pveRating": "12037"
+      }
     }
   }
 }

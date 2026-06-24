@@ -192,6 +192,53 @@
         "clan.pvpRating": "1515",
         "clan.pveRating": "355852"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:02:55.3361997Z",
+      "Flat": {
+        "effRating": "8113.1059570312",
+        "nickName": "wybryk",
+        "prestigeBonus": "3.05",
+        "uid": "905549",
+        "accountRank": "25",
+        "pve.gamePlayed": "10555",
+        "pve.unlimPve_playerAttackLevel": "278",
+        "pve.unlimPve_playerDefenceLevel": "230",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "76",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "70",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "88",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "73",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "66",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "112",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "66",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "71",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "69",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "66",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "41",
+        "pve.unlimPve_missionLevels.piratebay_hard": "63",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "54",
+        "pve.unlimPve_missionLevels.magnificent_seven": "61",
+        "pve.unlimPve_missionLevels.stealth": "18",
+        "pve.wavePve_maxWave": "70",
+        "pvp.gamePlayed": "11445",
+        "pvp.gameWin": "5990",
+        "pvp.totalAssists": "56589",
+        "pvp.totalBattleTime": "5814635429",
+        "pvp.totalDeath": "24102",
+        "pvp.totalDmgDone": "1447011917.6695",
+        "pvp.totalHealingDone": "308330019.52325",
+        "pvp.totalKill": "27625",
+        "pvp.totalVpDmgDone": "186638.41841785",
+        "coop.gameWin": "6783",
+        "coop.gamePlayed": "6812",
+        "coop.totalBattleTime": "1757365875",
+        "openWorld.karma": "693643",
+        "clan.name": "Polish Hunters",
+        "clan.tag": "POL",
+        "clan.cid": "2324",
+        "clan.pvpRating": "1482",
+        "clan.pveRating": "330148"
+      }
     }
   }
 }

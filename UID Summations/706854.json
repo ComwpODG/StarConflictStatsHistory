@@ -1096,6 +1096,48 @@
         "coop.totalBattleTime": "1874027492",
         "openWorld.karma": "676579"
       }
+    },
+    "2026-06-23": {
+      "TakenAtUtc": "2026-06-23T23:01:09.8066225Z",
+      "Flat": {
+        "effRating": "5545.4926757812",
+        "nickName": "Kirrax",
+        "prestigeBonus": "3.1",
+        "uid": "706854",
+        "accountRank": "18",
+        "pve.gamePlayed": "7155",
+        "pve.unlimPve_playerAttackLevel": "20",
+        "pve.unlimPve_playerDefenceLevel": "20",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "39",
+        "pve.unlimPve_missionLevels.pve_frozen_station_t2": "37",
+        "pve.unlimPve_missionLevels.nalnifan_lumen_waves_T1": "69",
+        "pve.unlimPve_missionLevels.pve_jericho_base_t2": "45",
+        "pve.unlimPve_missionLevels.planet_war_waves_T1": "55",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "56",
+        "pve.unlimPve_missionLevels.pve_desttown_waves_easy": "44",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "38",
+        "pve.unlimPve_missionLevels.loot_geostation_normal": "43",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "41",
+        "pve.unlimPve_missionLevels.pve_empfrontier_waves_T1": "34",
+        "pve.unlimPve_missionLevels.piratebay_hard": "50",
+        "pve.unlimPve_missionLevels.rescue_pirates_base": "21",
+        "pve.unlimPve_missionLevels.magnificent_seven": "21",
+        "pve.unlimPve_missionLevels.stealth": "20",
+        "pve.wavePve_maxWave": "30",
+        "pvp.gamePlayed": "1688",
+        "pvp.gameWin": "754",
+        "pvp.totalAssists": "10450",
+        "pvp.totalBattleTime": "781010961",
+        "pvp.totalDeath": "4917",
+        "pvp.totalDmgDone": "113454974.77613",
+        "pvp.totalHealingDone": "20757009.947815",
+        "pvp.totalKill": "2516",
+        "pvp.totalVpDmgDone": "555.2383479476",
+        "coop.gameWin": "6656",
+        "coop.gamePlayed": "6770",
+        "coop.totalBattleTime": "1875209086",
+        "openWorld.karma": "676636"
+      }
     }
   }
 }
