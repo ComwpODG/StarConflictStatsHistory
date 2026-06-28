@@ -932,6 +932,70 @@
         "clan.pvpRating": "9199",
         "clan.pveRating": "415412"
       }
+    },
+    "2026-06-26": {
+      "TakenAtUtc": "2026-06-26T23:00:33.3066992Z",
+      "Flat": {
+        "effRating": "3944.6118164062",
+        "nickName": "Joshua101112214",
+        "prestigeBonus": "0.48",
+        "uid": "384187",
+        "accountRank": "11",
+        "pve.gamePlayed": "404",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pvp.gamePlayed": "1346",
+        "pvp.gameWin": "618",
+        "pvp.totalAssists": "5057",
+        "pvp.totalBattleTime": "532801353",
+        "pvp.totalDeath": "2633",
+        "pvp.totalDmgDone": "88103869.981789",
+        "pvp.totalHealingDone": "9729599.9318237",
+        "pvp.totalKill": "2936",
+        "pvp.totalVpDmgDone": "2339.5232905746",
+        "coop.gameWin": "22",
+        "coop.gamePlayed": "22",
+        "coop.totalBattleTime": "5619442",
+        "openWorld.karma": "4862",
+        "clan.name": "Too Much Iridium",
+        "clan.tag": "10k",
+        "clan.cid": "1534",
+        "clan.pvpRating": "10600",
+        "clan.pveRating": "416993"
+      }
+    },
+    "2026-06-27": {
+      "TakenAtUtc": "2026-06-27T23:00:29.9789225Z",
+      "Flat": {
+        "effRating": "3944.6118164062",
+        "nickName": "Joshua101112214",
+        "prestigeBonus": "0.48",
+        "uid": "384187",
+        "accountRank": "11",
+        "pve.gamePlayed": "404",
+        "pve.unlimPve_missionLevels.asteroid_building_t1": "2",
+        "pve.unlimPve_missionLevels.bigship_building_easy": "2",
+        "pve.unlimPve_missionLevels.capture_repairbase_t1": "2",
+        "pvp.gamePlayed": "1346",
+        "pvp.gameWin": "618",
+        "pvp.totalAssists": "5057",
+        "pvp.totalBattleTime": "532801353",
+        "pvp.totalDeath": "2633",
+        "pvp.totalDmgDone": "88103869.981789",
+        "pvp.totalHealingDone": "9729599.9318237",
+        "pvp.totalKill": "2936",
+        "pvp.totalVpDmgDone": "2339.5232905746",
+        "coop.gameWin": "22",
+        "coop.gamePlayed": "22",
+        "coop.totalBattleTime": "5619442",
+        "openWorld.karma": "4862",
+        "clan.name": "Happy Bday",
+        "clan.tag": "Bolo",
+        "clan.cid": "1534",
+        "clan.pvpRating": "9926",
+        "clan.pveRating": "426058"
+      }
     }
   }
 }

@@ -700,6 +700,54 @@
         "clan.pvpRating": "-99",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-26": {
+      "TakenAtUtc": "2026-06-26T23:01:12.5034831Z",
+      "Flat": {
+        "effRating": "1482.8359375",
+        "nickName": "tiben1",
+        "prestigeBonus": "0.01",
+        "uid": "150701",
+        "pve.gamePlayed": "16",
+        "pvp.gamePlayed": "99",
+        "pvp.gameWin": "31",
+        "pvp.totalAssists": "267",
+        "pvp.totalBattleTime": "34958201",
+        "pvp.totalDeath": "171",
+        "pvp.totalDmgDone": "3536451.1732178",
+        "pvp.totalHealingDone": "145588.10513306",
+        "pvp.totalKill": "180",
+        "pvp.totalVpDmgDone": "139.81161499023",
+        "clan.name": "Firefly",
+        "clan.tag": "",
+        "clan.cid": "971",
+        "clan.pvpRating": "-99",
+        "clan.pveRating": "0"
+      }
+    },
+    "2026-06-27": {
+      "TakenAtUtc": "2026-06-27T23:01:08.2637387Z",
+      "Flat": {
+        "effRating": "1482.8359375",
+        "nickName": "tiben1",
+        "prestigeBonus": "0.01",
+        "uid": "150701",
+        "pve.gamePlayed": "16",
+        "pvp.gamePlayed": "99",
+        "pvp.gameWin": "31",
+        "pvp.totalAssists": "267",
+        "pvp.totalBattleTime": "34958201",
+        "pvp.totalDeath": "171",
+        "pvp.totalDmgDone": "3536451.1732178",
+        "pvp.totalHealingDone": "145588.10513306",
+        "pvp.totalKill": "180",
+        "pvp.totalVpDmgDone": "139.81161499023",
+        "clan.name": "Firefly",
+        "clan.tag": "",
+        "clan.cid": "971",
+        "clan.pvpRating": "-99",
+        "clan.pveRating": "0"
+      }
     }
   }
 }
