@@ -283,6 +283,24 @@
         "accountRank": "5",
         "prestigeBonus": "0.09"
       }
+    },
+    "2026-06-28": {
+      "TakenAtUtc": "2026-06-28T23:00:06.854792Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-06-29": {
+      "TakenAtUtc": "2026-06-29T23:00:03.6424446Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
     }
   }
 }
