@@ -934,6 +934,66 @@
         "clan.pvpRating": "9926",
         "clan.pveRating": "426058"
       }
+    },
+    "2026-06-28": {
+      "TakenAtUtc": "2026-06-28T23:00:09.9586183Z",
+      "Flat": {
+        "effRating": "3990.7719726562",
+        "nickName": "gottalovecookies",
+        "prestigeBonus": "0.24",
+        "uid": "264260",
+        "accountRank": "15",
+        "pve.gamePlayed": "1400",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pvp.gamePlayed": "2096",
+        "pvp.gameWin": "871",
+        "pvp.totalAssists": "8856",
+        "pvp.totalBattleTime": "907278011",
+        "pvp.totalDeath": "3895",
+        "pvp.totalDmgDone": "165988483.10043",
+        "pvp.totalHealingDone": "18340735.663116",
+        "pvp.totalKill": "2338",
+        "pvp.totalVpDmgDone": "3695.2231752872",
+        "coop.gameWin": "178",
+        "coop.gamePlayed": "186",
+        "coop.totalBattleTime": "58062427",
+        "openWorld.karma": "5116",
+        "clan.name": "0w0 no counter 2",
+        "clan.tag": "CHA0S",
+        "clan.cid": "1534",
+        "clan.pvpRating": "9754",
+        "clan.pveRating": "334733"
+      }
+    },
+    "2026-06-29": {
+      "TakenAtUtc": "2026-06-29T23:00:06.9372763Z",
+      "Flat": {
+        "effRating": "3990.7719726562",
+        "nickName": "gottalovecookies",
+        "prestigeBonus": "0.24",
+        "uid": "264260",
+        "accountRank": "15",
+        "pve.gamePlayed": "1400",
+        "pve.unlimPve_missionLevels.bigship_building_2_easy": "2",
+        "pvp.gamePlayed": "2096",
+        "pvp.gameWin": "871",
+        "pvp.totalAssists": "8856",
+        "pvp.totalBattleTime": "907278011",
+        "pvp.totalDeath": "3895",
+        "pvp.totalDmgDone": "165988483.10043",
+        "pvp.totalHealingDone": "18340735.663116",
+        "pvp.totalKill": "2338",
+        "pvp.totalVpDmgDone": "3695.2231752872",
+        "coop.gameWin": "178",
+        "coop.gamePlayed": "186",
+        "coop.totalBattleTime": "58062427",
+        "openWorld.karma": "5116",
+        "clan.name": "0w0 no counter 2",
+        "clan.tag": "CHA0S",
+        "clan.cid": "1534",
+        "clan.pvpRating": "10309",
+        "clan.pveRating": "271001"
+      }
     }
   }
 }
