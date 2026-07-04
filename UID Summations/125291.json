@@ -565,6 +565,74 @@
         "pvp.totalKill": "159",
         "pvp.totalVpDmgDone": "0"
       }
+    },
+    "2026-06-30": {
+      "TakenAtUtc": "2026-07-01T03:05:22.8098535Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-01": {
+      "TakenAtUtc": "2026-07-01T23:00:40.6142811Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-02": {
+      "TakenAtUtc": "2026-07-02T23:00:45.2839367Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-03": {
+      "TakenAtUtc": "2026-07-03T23:00:43.1847044Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
     }
   }
 }

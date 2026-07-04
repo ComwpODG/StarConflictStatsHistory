@@ -184,6 +184,78 @@
         "pvp.totalKill": "9",
         "pvp.totalVpDmgDone": "0"
       }
+    },
+    "2026-06-30": {
+      "TakenAtUtc": "2026-07-01T03:07:42.2869614Z",
+      "Flat": {
+        "nickName": "help",
+        "prestigeBonus": "0",
+        "uid": "735855",
+        "pve.gamePlayed": "20",
+        "pvp.gamePlayed": "16",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "18",
+        "pvp.totalBattleTime": "5107457",
+        "pvp.totalDeath": "30",
+        "pvp.totalDmgDone": "135619.03076172",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "9",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-01": {
+      "TakenAtUtc": "2026-07-01T23:03:08.4119957Z",
+      "Flat": {
+        "nickName": "help",
+        "prestigeBonus": "0",
+        "uid": "735855",
+        "pve.gamePlayed": "20",
+        "pvp.gamePlayed": "16",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "18",
+        "pvp.totalBattleTime": "5107457",
+        "pvp.totalDeath": "30",
+        "pvp.totalDmgDone": "135619.03076172",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "9",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-02": {
+      "TakenAtUtc": "2026-07-02T23:03:41.4029634Z",
+      "Flat": {
+        "nickName": "help",
+        "prestigeBonus": "0",
+        "uid": "735855",
+        "pve.gamePlayed": "20",
+        "pvp.gamePlayed": "16",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "18",
+        "pvp.totalBattleTime": "5107457",
+        "pvp.totalDeath": "30",
+        "pvp.totalDmgDone": "135619.03076172",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "9",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-03": {
+      "TakenAtUtc": "2026-07-03T23:03:10.9787547Z",
+      "Flat": {
+        "nickName": "help",
+        "prestigeBonus": "0",
+        "uid": "735855",
+        "pve.gamePlayed": "20",
+        "pvp.gamePlayed": "16",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "18",
+        "pvp.totalBattleTime": "5107457",
+        "pvp.totalDeath": "30",
+        "pvp.totalDmgDone": "135619.03076172",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "9",
+        "pvp.totalVpDmgDone": "0"
+      }
     }
   }
 }

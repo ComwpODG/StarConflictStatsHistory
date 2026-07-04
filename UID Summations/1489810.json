@@ -279,6 +279,106 @@
         "clan.pvpRating": "0",
         "clan.pveRating": "0"
       }
+    },
+    "2026-06-30": {
+      "TakenAtUtc": "2026-07-01T03:07:39.0201278Z",
+      "Flat": {
+        "effRating": "936.40338134766",
+        "nickName": "amsem",
+        "prestigeBonus": "0",
+        "uid": "1489810",
+        "pve.gamePlayed": "21",
+        "pvp.gamePlayed": "7",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "39",
+        "pvp.totalBattleTime": "2490957",
+        "pvp.totalDeath": "12",
+        "pvp.totalDmgDone": "586948.47851562",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "25",
+        "pvp.totalVpDmgDone": "0",
+        "openWorld.karma": "30",
+        "clan.name": "legacy of spirit",
+        "clan.tag": "LOS",
+        "clan.cid": "2396",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
+    },
+    "2026-07-01": {
+      "TakenAtUtc": "2026-07-01T23:03:04.7680079Z",
+      "Flat": {
+        "effRating": "936.40338134766",
+        "nickName": "amsem",
+        "prestigeBonus": "0",
+        "uid": "1489810",
+        "pve.gamePlayed": "21",
+        "pvp.gamePlayed": "7",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "39",
+        "pvp.totalBattleTime": "2490957",
+        "pvp.totalDeath": "12",
+        "pvp.totalDmgDone": "586948.47851562",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "25",
+        "pvp.totalVpDmgDone": "0",
+        "openWorld.karma": "30",
+        "clan.name": "legacy of spirit",
+        "clan.tag": "LOS",
+        "clan.cid": "2396",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
+    },
+    "2026-07-02": {
+      "TakenAtUtc": "2026-07-02T23:03:37.7158963Z",
+      "Flat": {
+        "effRating": "936.40338134766",
+        "nickName": "amsem",
+        "prestigeBonus": "0",
+        "uid": "1489810",
+        "pve.gamePlayed": "21",
+        "pvp.gamePlayed": "7",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "39",
+        "pvp.totalBattleTime": "2490957",
+        "pvp.totalDeath": "12",
+        "pvp.totalDmgDone": "586948.47851562",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "25",
+        "pvp.totalVpDmgDone": "0",
+        "openWorld.karma": "30",
+        "clan.name": "legacy of spirit",
+        "clan.tag": "LOS",
+        "clan.cid": "2396",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
+    },
+    "2026-07-03": {
+      "TakenAtUtc": "2026-07-03T23:03:07.4639865Z",
+      "Flat": {
+        "effRating": "936.40338134766",
+        "nickName": "amsem",
+        "prestigeBonus": "0",
+        "uid": "1489810",
+        "pve.gamePlayed": "21",
+        "pvp.gamePlayed": "7",
+        "pvp.gameWin": "5",
+        "pvp.totalAssists": "39",
+        "pvp.totalBattleTime": "2490957",
+        "pvp.totalDeath": "12",
+        "pvp.totalDmgDone": "586948.47851562",
+        "pvp.totalHealingDone": "0",
+        "pvp.totalKill": "25",
+        "pvp.totalVpDmgDone": "0",
+        "openWorld.karma": "30",
+        "clan.name": "legacy of spirit",
+        "clan.tag": "LOS",
+        "clan.cid": "2396",
+        "clan.pvpRating": "0",
+        "clan.pveRating": "0"
+      }
     }
   }
 }
