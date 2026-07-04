@@ -301,6 +301,42 @@
         "accountRank": "5",
         "prestigeBonus": "0.09"
       }
+    },
+    "2026-06-30": {
+      "TakenAtUtc": "2026-07-01T03:04:49.0655005Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-01": {
+      "TakenAtUtc": "2026-07-01T23:00:05.7548464Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-02": {
+      "TakenAtUtc": "2026-07-02T23:00:09.6582778Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-03": {
+      "TakenAtUtc": "2026-07-03T23:00:08.1205813Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
     }
   }
 }
