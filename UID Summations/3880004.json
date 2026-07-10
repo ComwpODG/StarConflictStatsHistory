@@ -337,6 +337,60 @@
         "accountRank": "5",
         "prestigeBonus": "0.09"
       }
+    },
+    "2026-07-04": {
+      "TakenAtUtc": "2026-07-04T23:00:03.813107Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-05": {
+      "TakenAtUtc": "2026-07-05T23:00:06.6217808Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-06": {
+      "TakenAtUtc": "2026-07-06T23:00:07.0395778Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-07": {
+      "TakenAtUtc": "2026-07-07T23:00:06.5934127Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-08": {
+      "TakenAtUtc": "2026-07-08T23:00:03.6237171Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
+    },
+    "2026-07-09": {
+      "TakenAtUtc": "2026-07-09T23:00:10.0596281Z",
+      "Flat": {
+        "nickName": "CjS",
+        "uid": "3880004",
+        "accountRank": "5",
+        "prestigeBonus": "0.09"
+      }
     }
   }
 }
