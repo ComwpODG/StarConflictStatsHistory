@@ -633,6 +633,108 @@
         "pvp.totalKill": "159",
         "pvp.totalVpDmgDone": "0"
       }
+    },
+    "2026-07-04": {
+      "TakenAtUtc": "2026-07-04T23:00:39.2884796Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-05": {
+      "TakenAtUtc": "2026-07-05T23:00:42.6235842Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-06": {
+      "TakenAtUtc": "2026-07-06T23:00:43.7366285Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-07": {
+      "TakenAtUtc": "2026-07-07T23:00:40.7256951Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-08": {
+      "TakenAtUtc": "2026-07-08T23:00:39.7097958Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
+    },
+    "2026-07-09": {
+      "TakenAtUtc": "2026-07-09T23:00:44.7761516Z",
+      "Flat": {
+        "nickName": "Ishimura",
+        "uid": "125291",
+        "pve.gamePlayed": "25",
+        "pvp.gamePlayed": "82",
+        "pvp.gameWin": "40",
+        "pvp.totalAssists": "342",
+        "pvp.totalBattleTime": "31274453",
+        "pvp.totalDeath": "145",
+        "pvp.totalDmgDone": "3837742.1035156",
+        "pvp.totalHealingDone": "1037982.0933838",
+        "pvp.totalKill": "159",
+        "pvp.totalVpDmgDone": "0"
+      }
     }
   }
 }
